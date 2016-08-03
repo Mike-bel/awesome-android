@@ -20,3 +20,5 @@ See the [Wiki](https://github.com/Mike-bel/Awesome_Android/wiki) .
 - [TimLiu-Android](https://github.com/Tim9Liu9/TimLiu-Android)
 
 - [Android-Best-Practices](https://github.com/tianzhijiexian/Android-Best-Practices)
+
+- [madongqiang2201/views](https://github.com/madongqiang2201/views)
