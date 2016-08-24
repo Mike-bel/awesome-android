@@ -8,6 +8,11 @@ This is a better way to show Android projects from GitHub for me.
 
 See the [Wiki](https://github.com/Mike-bel/Awesome_Android/wiki) .
 
+#### Awesome Blogs
+----
+
+- [hehonghui/android-tech-frontier](https://github.com/hehonghui/android-tech-frontier)
+
 #### Reference
 ----
 
