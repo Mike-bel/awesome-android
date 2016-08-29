@@ -13,6 +13,11 @@ See the [Wiki](https://github.com/Mike-bel/Awesome_Android/wiki) .
 
 - [hehonghui/android-tech-frontier](https://github.com/hehonghui/android-tech-frontier)
 
+#### Design
+----
+
+- [material-design-icons](https://github.com/google/material-design-icons)
+
 #### Reference
 ----
 
