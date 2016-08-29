@@ -21,6 +21,8 @@ See the [Wiki](https://github.com/Mike-bel/Awesome_Android/wiki) .
 #### Reference
 ----
 
+- [codepath/android_guides](https://github.com/codepath/android_guides)
+
 - [Awesome-MaterialDesign](https://github.com/lightSky/Awesome-MaterialDesign) .
 
 - [android-open-project](https://github.com/Trinea/android-open-project) 
