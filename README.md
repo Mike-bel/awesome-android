@@ -25,6 +25,8 @@ See the [Wiki](https://github.com/Mike-bel/Awesome_Android/wiki) .
 #### Reference
 ----
 
+- [80+ Best Resources for Android Developers 2016 (Blogs, Forums & More)](http://www.anysoftwaretools.com/best-android-development-resources/)
+
 - [codepath/android_guides](https://github.com/codepath/android_guides)
 
 - [Awesome-MaterialDesign](https://github.com/lightSky/Awesome-MaterialDesign) .
