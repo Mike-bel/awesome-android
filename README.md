@@ -11,6 +11,8 @@ See the [Wiki](https://github.com/Mike-bel/Awesome_Android/wiki) .
 #### Blogs
 ----
 
+- [android-training-course-in-chinese](https://github.com/kesenhoo/android-training-course-in-chinese)
+
 - [hehonghui/android-tech-frontier](https://github.com/hehonghui/android-tech-frontier)
 
 #### Design
