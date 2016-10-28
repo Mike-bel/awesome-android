@@ -50,3 +50,5 @@ See the [Wiki](https://github.com/Mike-bel/Awesome_Android/wiki) .
 - [madongqiang2201/views](https://github.com/madongqiang2201/views)
 
 - [ddwhan0123/Useful-Open-Source-Android](https://github.com/ddwhan0123/Useful-Open-Source-Android)
+
+- [XXApple/AndroidLibs](https://github.com/XXApple/AndroidLibs)
