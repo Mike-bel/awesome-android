@@ -18,10 +18,12 @@ See the [Wiki](https://github.com/Mike-bel/Awesome_Android/wiki) .
 
 - [material-design-icons](https://github.com/google/material-design-icons)
 
-#### ADB命令大全
+#### ADB命令相关
 ----
 
 - [awesome-adb](https://github.com/mzlogin/awesome-adb)
+
+- [dryrun](https://github.com/cesarferreira/dryrun)
 
 #### Tools
 ----
