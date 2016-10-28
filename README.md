@@ -15,6 +15,8 @@ See the [Wiki](https://github.com/Mike-bel/Awesome_Android/wiki) .
 
 - [hehonghui/android-tech-frontier](https://github.com/hehonghui/android-tech-frontier)
 
+- [ZQiang94/Andriod-collect-blogs](https://github.com/ZQiang94/Andriod-collect-blogs)
+
 #### Design
 ----
 
