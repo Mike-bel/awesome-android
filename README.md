@@ -8,6 +8,13 @@ This is a better way to show Android projects from GitHub for me.
 
 See the [Wiki](https://github.com/Mike-bel/Awesome_Android/wiki) .
 
+#### Hybird App
+----
+
+- [weex](http://alibaba.github.io/weex/index.html)
+
+- [React Native](https://facebook.github.io/react-native/)
+
 #### Blogs
 ----
 
