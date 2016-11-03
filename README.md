@@ -17,6 +17,16 @@ Maybe it is not the most complete one, but must be the awesome one!
 - [DI & Event Bus](https://github.com/Mike-bel/Awesome_Android/blob/master/category/DI_and_EventBus.md)
 
   dependency injector, and event bus.
+  
+- [Hot Fix](https://github.com/Mike-bel/Awesome_Android/blob/master/category/hot_fix.md)
+
+- [Logger](https://github.com/Mike-bel/Awesome_Android/blob/master/category/logger)
+
+- [Change Skin](https://github.com/Mike-bel/Awesome_Android/blob/master/category/change_skin.md)
+
+  daynight mode, and change skin.
+  
+- []()
 
 #### Hybird App
 ----
