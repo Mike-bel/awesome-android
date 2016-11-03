@@ -26,7 +26,10 @@ Maybe it is not the most complete one, but must be the awesome one!
 
   daynight mode, and change skin.
   
-- []()
+- [Serialization](https://github.com/Mike-bel/Awesome_Android/blob/master/category/serialization.md)
+
+  JSON parser/generator, Java serialization/deserialization library.
+
 
 #### Hybird App
 ----
