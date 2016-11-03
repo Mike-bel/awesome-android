@@ -14,6 +14,10 @@ Maybe it is not the most complete one, but must be the awesome one!
 
 SQLite, ORMs, and SharedPreferences.
 
+1. [DI & Event Bus](https://github.com/Mike-bel/Awesome_Android/blob/master/category/DI_and_EventBus.md)
+
+dependency injector, and event bus.
+
 #### Hybird App
 ----
 
