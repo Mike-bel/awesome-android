@@ -12,6 +12,8 @@ Maybe it is not the most complete one, but must be the awesome one!
 
 - [Data Storage](https://github.com/Mike-bel/Awesome_Android/blob/master/category/data_storage.md)
 
+SQLite, ORMs, and SharedPreferences.
+
 #### Hybird App
 ----
 
