@@ -29,7 +29,10 @@ Maybe it is not the most complete one, but must be the awesome one!
 - [Serialization](https://github.com/Mike-bel/Awesome_Android/blob/master/category/serialization.md)
 
   JSON parser/generator, Java serialization/deserialization library.
+  
+- [Office Software](https://github.com/Mike-bel/Awesome_Android/blob/master/category/office_software.md)
 
+  pdf, word, excel, ppt and so on.
 
 #### Hybird App
 ----
