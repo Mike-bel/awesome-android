@@ -1,12 +1,13 @@
-#### Introduction
-----
+# Introduction
 
-This is a better way to show Android projects from GitHub for me.
+This is a better way to collect some android repositories on github for me, or for you, a android developer.
 
-#### Start
-----
+Maybe it is not the most complete one, but must be the awesome one!
 
-See the [Wiki](https://github.com/Mike-bel/Awesome_Android/wiki) .
+# Category
+
+## Http Client
+
 
 #### Hybird App
 ----
