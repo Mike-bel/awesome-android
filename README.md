@@ -12,11 +12,11 @@ Maybe it is not the most complete one, but must be the awesome one!
 
 - [Data Storage](https://github.com/Mike-bel/Awesome_Android/blob/master/category/data_storage.md)
 
-SQLite, ORMs, and SharedPreferences.
+  SQLite, ORMs, and SharedPreferences.
 
-1. [DI & Event Bus](https://github.com/Mike-bel/Awesome_Android/blob/master/category/DI_and_EventBus.md)
+- [DI & Event Bus](https://github.com/Mike-bel/Awesome_Android/blob/master/category/DI_and_EventBus.md)
 
-dependency injector, and event bus.
+  dependency injector, and event bus.
 
 #### Hybird App
 ----
