@@ -52,9 +52,20 @@ Maybe it is not the most complete one, but must be the awesome one!
 
 - UI Design
 
-  - []()
-
+  - [Menu](https://github.com/Mike-bel/Awesome_Android/blob/master/category/ui/menu.md)
   
+  - [Indicator](https://github.com/Mike-bel/Awesome_Android/blob/master/category/ui/indicator.md)
+  
+  - [PullToRefresh](https://github.com/Mike-bel/Awesome_Android/blob/master/category/ui/pulltofresh.md)
+  
+  - [Banner](https://github.com/Mike-bel/Awesome_Android/blob/master/category/ui/banner.md)
+  
+  - [Dialog](https://github.com/Mike-bel/Awesome_Android/blob/master/category/ui/dialog.md)
+  
+  - [Image](https://github.com/Mike-bel/Awesome_Android/blob/master/category/ui/image.md)
+  
+  zooming, crop, circle or rounded corner, image picker, image editor...
+
 
 #### Hybird App
 ----
