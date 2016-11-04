@@ -2,6 +2,20 @@
 
 TODO
 
+# MusicPlayer
+
+## [android-UniversalMusicPlayer](https://github.com/googlesamples/android-UniversalMusicPlayer)
+
+By googlesamples, inc.
+
+This sample shows how to implement an audio media app that works across multiple form factors and provide a consistent user experience on Android phones, tablets, Android Auto, Android Wear, Android TV and Google Cast devices.
+
+## [JamsMusicPlayer](https://github.com/psaravan/JamsMusicPlayer)
+
+By psaravan.
+
+Jams is a free, powerful and elegant music player for Android. 
+
 # VideoPlayer
 
 ## [ijkplayer](https://github.com/Bilibili/ijkplayer)
