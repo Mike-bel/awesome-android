@@ -64,7 +64,27 @@ Maybe it is not the most complete one, but must be the awesome one!
   
   - [Image](https://github.com/Mike-bel/Awesome_Android/blob/master/category/ui/image.md)
   
-  zooming, crop, circle or rounded corner, image picker, image editor...
+    zooming, crop, circle or rounded corner, image picker, image editor...
+  
+  - [Text](https://github.com/Mike-bel/Awesome_Android/blob/master/category/ui/text.md)
+  
+    TextView.
+  
+  - [ProgressBar](https://github.com/Mike-bel/Awesome_Android/blob/master/category/ui/progressbar.md)
+  
+  - [Switch](https://github.com/Mike-bel/Awesome_Android/blob/master/category/ui/switch.md)
+  
+    SwitchButton, CheckBox.
+    
+  - [List](https://github.com/Mike-bel/Awesome_Android/blob/master/category/ui/list.md)
+  
+    ExpandableListView Or TreeView...
+  
+  - [Blur](https://github.com/Mike-bel/Awesome_Android/blob/master/category/ui/blur.md)
+  
+    Gaussian Blur and Ground Glass Effect for image.
+    
+  - [CaseView]()
 
 
 #### Hybird App
