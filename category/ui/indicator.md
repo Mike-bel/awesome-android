@@ -3,10 +3,10 @@
 
 By ogaclejapan.
 
-![SmartTabLayout Demo1][demo1_gif] ![SmartTabLayout Demo2][demo2_gif]
-![SmartTabLayout Demo3][demo3_gif] ![SmartTabLayout Demo4][demo4_gif]
-![SmartTabLayout Demo5][demo5_gif] ![SmartTabLayout Demo6][demo6_gif]
-![SmartTabLayout Demo7][demo7_gif]
+![SmartTabLayout Demo1][https://raw.githubusercontent.com/ogaclejapan/SmartTabLayout/master/art/demo1.gif] ![SmartTabLayout Demo2][https://raw.githubusercontent.com/ogaclejapan/SmartTabLayout/master/art/demo2.gif]
+![SmartTabLayout Demo3][https://raw.githubusercontent.com/ogaclejapan/SmartTabLayout/master/art/demo3.gif] ![SmartTabLayout Demo4][https://raw.githubusercontent.com/ogaclejapan/SmartTabLayout/master/art/demo4_gif]
+![SmartTabLayout Demo5][https://raw.githubusercontent.com/ogaclejapan/SmartTabLayout/master/art/demo5_gif] ![SmartTabLayout Demo6][https://raw.githubusercontent.com/ogaclejapan/SmartTabLayout/master/art/demo6_gif]
+![SmartTabLayout Demo7][https://raw.githubusercontent.com/ogaclejapan/SmartTabLayout/master/art/demo7_gif]
 
 Extends:
 
