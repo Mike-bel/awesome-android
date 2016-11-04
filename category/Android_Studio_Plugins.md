@@ -13,8 +13,6 @@
   Freeline is a fast build and deployment tool for Android. Caching reusable class files and resource indices, it enables       incrementally building Android apps, and optionally deploying the update to your device with hot swap.
   
   Reference: [Freeline - Android平台上的秒级编译方案](https://yq.aliyun.com/articles/59122)
-  
-- []()
 
 - [jrebel-for-android](https://zeroturnaround.com/software/jrebel-for-android/)
 
