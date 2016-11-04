@@ -32,7 +32,7 @@ By lyft.
 
 ![](https://github.com/lyft/scissors/raw/master/art/demo.gif)
 
-# Circle & RoundCorner
+# Circle & RoundedCorner
 
 ## [CircleImageView](https://github.com/hdodenhof/CircleImageView)
 
