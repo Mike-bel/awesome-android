@@ -20,7 +20,7 @@ Maybe it is not the most complete one, but must be the awesome one!
   
 - [Hot Fix](https://github.com/Mike-bel/Awesome_Android/blob/master/category/hot_fix.md)
 
-- [Logger](https://github.com/Mike-bel/Awesome_Android/blob/master/category/logger)
+- [Logger](https://github.com/Mike-bel/Awesome_Android/blob/master/category/logger.md)
 
 - [Change Skin](https://github.com/Mike-bel/Awesome_Android/blob/master/category/change_skin.md)
 
@@ -33,6 +33,22 @@ Maybe it is not the most complete one, but must be the awesome one!
 - [Office Software](https://github.com/Mike-bel/Awesome_Android/blob/master/category/office_software.md)
 
   pdf, word, excel, ppt and so on.
+  
+- [Android Studio Plugins](https://github.com/Mike-bel/Awesome_Android/blob/master/category/Android_Studio_Plugins.md)
+
+- [Complete_Project](https://github.com/Mike-bel/Awesome_Android/blob/master/category/complete_project.md)
+
+  Some open source projects used for learning.
+  
+- [Multimedia](https://github.com/Mike-bel/Awesome_Android/blob/master/category/multimedia.md)
+
+  AudioRecord, VideoPlayer, MusicPlayer.
+  
+- [Charts](https://github.com/Mike-bel/Awesome_Android/blob/master/category/charts.md)
+
+- [Calendar](https://github.com/Mike-bel/Awesome_Android/blob/master/category/calendar.md)
+
+- [Performance Optimization](https://github.com/Mike-bel/Awesome_Android/blob/master/category/performance_optimization.md)
 
 #### Hybird App
 ----
