@@ -9,6 +9,12 @@ The ShowcaseView (SCV) library is designed to highlight and showcase specific pa
 | --- | --- | --- |
 | ![Holo style showcaseview](https://github.com/amlcurran/ShowcaseView/raw/master/example2@2x.png) | ![new style showcaseview](https://github.com/amlcurran/ShowcaseView/raw/master/example@2x.png) | ![Material style showcaseview](https://github.com/amlcurran/ShowcaseView/raw/master/material.png) |
 
+## [MaterialIntroView](https://github.com/iammert/MaterialIntroView)
+
+By iammert.
+
+![](https://raw.githubusercontent.com/iammert/MaterialIntroView/master/art/materialintroviewgif.gif)
+
 ## [MaterialShowcaseView](https://github.com/deano2390/MaterialShowcaseView)
 
 By deano2390.
