@@ -3,9 +3,7 @@
 
 By ogaclejapan.
 
-![SmartTabLayout Demo1](https://raw.githubusercontent.com/ogaclejapan/SmartTabLayout/master/art/demo1.gif)
-
-![SmartTabLayout Demo2](https://raw.githubusercontent.com/ogaclejapan/SmartTabLayout/master/art/demo2.gif)
+![SmartTabLayout Demo1](https://raw.githubusercontent.com/ogaclejapan/SmartTabLayout/master/art/demo1.gif)![SmartTabLayout Demo2](https://raw.githubusercontent.com/ogaclejapan/SmartTabLayout/master/art/demo2.gif)
 
 Extends:
 
