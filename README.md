@@ -84,7 +84,9 @@ Maybe it is not the most complete one, but must be the awesome one!
   
     Gaussian Blur and Ground Glass Effect for image.
     
-  - [CaseView]()
+  - [CaseView](https://github.com/Mike-bel/Awesome_Android/blob/master/category/ui/caseview.md)
+  
+    You can call it CaseView, TipsView, or GuideView.
 
 
 #### Hybird App
