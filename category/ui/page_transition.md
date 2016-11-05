@@ -27,6 +27,12 @@ A viewpager with parallax pages, together with vertical sliding (or click) and a
 
 ![](https://github.com/xmuSistone/android-page-transition/raw/master/gif1.gif) ![](https://github.com/xmuSistone/android-page-transition/raw/master/gif2.gif) ![](https://github.com/xmuSistone/android-page-transition/raw/master/gif3.gif)
 
+## [CoolAnim](https://github.com/huazhiyuan2008/CoolAnim)
+
+By huazhiyuan2008.
+
+![](https://github.com/huazhiyuan2008/CoolAnim/raw/master/art/CoolAnim.gif)
+
 ## [SwipeBackLayout](https://github.com/ikew0ng/SwipeBackLayout)
 
 By ikew0ng.
