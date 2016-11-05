@@ -26,3 +26,11 @@ By xmuSistone.
 A viewpager with parallax pages, together with vertical sliding (or click) and activity transition.
 
 ![](https://github.com/xmuSistone/android-page-transition/raw/master/gif1.gif) ![](https://github.com/xmuSistone/android-page-transition/raw/master/gif2.gif) ![](https://github.com/xmuSistone/android-page-transition/raw/master/gif3.gif)
+
+## [SwipeBackLayout](https://github.com/ikew0ng/SwipeBackLayout)
+
+By ikew0ng.
+
+An Android library that help you to build app with swipe back gesture.
+
+![](https://github.com/Issacw0ng/SwipeBackLayout/raw/master/art/screenshot.png?raw=true)
