@@ -27,6 +27,14 @@ A viewpager with parallax pages, together with vertical sliding (or click) and a
 
 ![](https://github.com/xmuSistone/android-page-transition/raw/master/gif1.gif) ![](https://github.com/xmuSistone/android-page-transition/raw/master/gif2.gif) ![](https://github.com/xmuSistone/android-page-transition/raw/master/gif3.gif)
 
+## [FanLayoutManager](https://github.com/Cleveroad/FanLayoutManager)
+
+By Cleveroad.
+
+Using Fan Layout Manager you can implement the horizontal list, the items of which move like fan blades https://www.cleveroad.com.
+
+![](https://github.com/Cleveroad/FanLayoutManager/raw/master/images/demo_.gif)
+
 ## [CoolAnim](https://github.com/huazhiyuan2008/CoolAnim)
 
 By huazhiyuan2008.
