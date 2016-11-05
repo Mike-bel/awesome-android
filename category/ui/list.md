@@ -20,3 +20,35 @@ By baoyongzhang.
 
 ![](https://raw.githubusercontent.com/baoyongzhang/SwipeMenuListView/master/demo.gif)
 
+# Drag
+
+## [ListViewAnimations](https://github.com/nhaarman/ListViewAnimations)
+
+By nhaarman.
+
+![](https://raw.githubusercontent.com/nhaarman/ListViewAnimations/gh-pages/images/dynamiclistview.gif)
+
+# Item Animation
+
+## [RecyclerViewItemAnimators](https://github.com/gabrielemariotti/RecyclerViewItemAnimators)
+
+By gabrielemariotti.
+
+![](https://github.com/gabrielemariotti/RecyclerViewItemAnimators/raw/master/demo.gif)
+
+# Extends
+
+## [SuperRecyclerView](https://github.com/Malinskiy/SuperRecyclerView)
+
+By Malinskiy.
+
+This is an attempt to make RecyclerView easier to use.
+
+Features built in:
+
+  1. ProgressBar while adapter hasn't been set
+  2. EmptyView if adapter is empty
+  3. SwipeRefreshLayout (Google's one)
+  4. Infinite scrolling, when you reach the X last item, load more of them.
+  5. Swipe To Dismiss or Swipe To Remove
+  6. Sticky headers (via Eowise, see sample)
