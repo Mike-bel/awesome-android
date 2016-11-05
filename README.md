@@ -100,9 +100,21 @@ Maybe it is not the most complete one, but must be the awesome one!
   
     Praise, Collect, or other actions.
     
-  - [Page Transition]()
+  - [ViewPager](https://github.com/Mike-bel/Awesome_Android/blob/master/category/ui/viewpager.md)
+  
+  - [Guide Page](https://github.com/Mike-bel/Awesome_Android/blob/master/category/ui/guide_page.md)
+    
+  - [Page Transition](https://github.com/Mike-bel/Awesome_Android/blob/master/category/ui/page_transition.md)
   
     Transitions, shared elements, swipe back between activities.
+    
+  - [Page Header](https://github.com/Mike-bel/Awesome_Android/blob/master/category/ui/page_header.md)
+  
+    Some common designs in detail page, personal info page, and so on.
+    
+  - [Search](https://github.com/Mike-bel/Awesome_Android/blob/master/category/ui/search.md)
+  
+    Search or filter in toolbar.
 
 
 #### Hybird App
