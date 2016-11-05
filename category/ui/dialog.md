@@ -1,4 +1,10 @@
 
+## [material-dialogs](https://github.com/afollestad/material-dialogs)
+
+By afollestad.
+
+![](https://raw.githubusercontent.com/afollestad/material-dialogs/master/art/readmeshowcase.png)
+
 ## [sweet-alert-dialog](https://github.com/pedant/sweet-alert-dialog)
 
 By pedant.
