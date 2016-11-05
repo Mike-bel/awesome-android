@@ -87,6 +87,14 @@ Maybe it is not the most complete one, but must be the awesome one!
   - [CaseView](https://github.com/Mike-bel/Awesome_Android/blob/master/category/ui/caseview.md)
   
     You can call it CaseView, TipsView, or GuideView.
+    
+  - [BottomSheet](https://github.com/Mike-bel/Awesome_Android/blob/master/category/ui/bottomsheet.md)
+  
+  - [WheelView](https://github.com/Mike-bel/Awesome_Android/blob/master/category/ui/wheelview.md)
+  
+    A picker or selector for date time, age, provinces, sex and so on.
+    
+  - [RippleEffect](https://github.com/Mike-bel/Awesome_Android/blob/master/category/ui/ripple.md)
 
 
 #### Hybird App
