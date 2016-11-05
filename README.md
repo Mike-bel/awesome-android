@@ -95,6 +95,14 @@ Maybe it is not the most complete one, but must be the awesome one!
     A picker or selector for date time, age, provinces, sex and so on.
     
   - [RippleEffect](https://github.com/Mike-bel/Awesome_Android/blob/master/category/ui/ripple.md)
+  
+  - [PraiseAnimation](https://github.com/Mike-bel/Awesome_Android/blob/master/category/ui/praise.md)
+  
+    Praise, Collect, or other actions.
+    
+  - [Page Transition]()
+  
+    Transitions, shared elements, swipe back between activities.
 
 
 #### Hybird App
