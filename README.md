@@ -1,6 +1,6 @@
 # Introduction
 
-This is a better way to collect some android repositories on github for me, or for you, a android developer.
+This is a better way to collect some android repositories on github for me, or for you, an android developer.
 
 Maybe it is not the most complete one, but must be the awesome one!
 
