@@ -1,3 +1,7 @@
+# Android Interview（面试题集锦）
+
+- [http://wenmingvs.github.io/2015/12/07/Android%E9%9D%A2%E8%AF%95%E9%A2%98/](http://wenmingvs.github.io/2015/12/07/Android%E9%9D%A2%E8%AF%95%E9%A2%98/)
+
 # Java内存模型
 
 - [http://www.infoq.com/cn/author/%E7%A8%8B%E6%99%93%E6%98%8E#全部](http://www.infoq.com/cn/author/%E7%A8%8B%E6%99%93%E6%98%8E#全部)
