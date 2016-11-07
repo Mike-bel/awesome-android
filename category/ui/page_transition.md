@@ -48,3 +48,9 @@ By ikew0ng.
 An Android library that help you to build app with swipe back gesture.
 
 ![](https://github.com/Issacw0ng/SwipeBackLayout/raw/master/art/screenshot.png?raw=true)
+
+## [SwipeBack](https://github.com/liuguangqiang/SwipeBack)
+
+By liuguangqiang.
+
+![](https://github.com/liuguangqiang/SwipeBack/raw/master/Images/swipeback_demo.gif) ![](https://github.com/liuguangqiang/SwipeBack/raw/master/Images/swipeback.gif)
