@@ -119,51 +119,41 @@ Maybe it is not the most complete one, but must be the awesome one!
     Search or filter in toolbar.
 
 
-#### Hybird App
-----
+# Hybird App
 
 - [weex](http://alibaba.github.io/weex/index.html)
 
 - [React Native](https://facebook.github.io/react-native/)
 
-#### Blogs
-----
+# Blogs
 
 - [android-training-course-in-chinese](https://github.com/kesenhoo/android-training-course-in-chinese)
 
 - [hehonghui/android-tech-frontier](https://github.com/hehonghui/android-tech-frontier)
 
-#### Design
-----
+# Design
 
 - [material-design-icons](https://github.com/google/material-design-icons)
 
 - [MaterialDesignLibrary](https://github.com/navasmdc/MaterialDesignLibrary)
 
-#### ADB命令相关
-----
+# ADB命令相关
 
 - [awesome-adb](https://github.com/mzlogin/awesome-adb)
 
 - [dryrun](https://github.com/cesarferreira/dryrun)
 
-#### Tools
-----
+# Tools
 
 - [androidtool-mac](https://github.com/mortenjust/androidtool-mac)
 
-#### Reference
-----
+# References
 
-- [80+ Best Resources for Android Developers 2016 (Blogs, Forums & More)](http://www.anysoftwaretools.com/best-android-development-resources/)
-
-- [codepath/android_guides](https://github.com/codepath/android_guides)
+## Internal
 
 - [Awesome-MaterialDesign](https://github.com/lightSky/Awesome-MaterialDesign) .
 
 - [android-open-project](https://github.com/Trinea/android-open-project) 
- 
-- [platform_frameworks_base](https://github.com/android/platform_frameworks_base) 
 
 - [TimLiu-Android](https://github.com/Tim9Liu9/TimLiu-Android)
 
@@ -174,3 +164,15 @@ Maybe it is not the most complete one, but must be the awesome one!
 - [ddwhan0123/Useful-Open-Source-Android](https://github.com/ddwhan0123/Useful-Open-Source-Android)
 
 - [XXApple/AndroidLibs](https://github.com/XXApple/AndroidLibs)
+
+## External
+
+- [80+ Best Resources for Android Developers 2016 (Blogs, Forums & More)](http://www.anysoftwaretools.com/best-android-development-resources/)
+
+- [codepath/android_guides](https://github.com/codepath/android_guides)
+
+- [platform_frameworks_base](https://github.com/android/platform_frameworks_base) 
+
+- [awesome-android-libraries](https://github.com/wasabeef/awesome-android-libraries)
+
+
