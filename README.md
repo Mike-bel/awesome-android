@@ -165,6 +165,8 @@ Maybe it is not the most complete one, but must be the awesome one!
 
 - [XXApple/AndroidLibs](https://github.com/XXApple/AndroidLibs)
 
+- [awesome-view](https://github.com/xinghongfei/awesome-view)
+
 ## External
 
 - [80+ Best Resources for Android Developers 2016 (Blogs, Forums & More)](http://www.anysoftwaretools.com/best-android-development-resources/)
