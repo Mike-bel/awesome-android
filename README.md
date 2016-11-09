@@ -143,6 +143,12 @@ Maybe it is not the most complete one, but must be the awesome one!
 
 - [dryrun](https://github.com/cesarferreira/dryrun)
 
+- ADB WIFI
+
+  - [Terminal sh](https://github.com/Bob1993/adbwifi)
+  - [AS Plugin](https://github.com/layerlre/ADBWIFI)
+  - [APK & Terminal](https://github.com/zeyuec/adbwifi)
+
 # Tools
 
 - [androidtool-mac](https://github.com/mortenjust/androidtool-mac)
