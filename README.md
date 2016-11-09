@@ -121,9 +121,11 @@ Maybe it is not the most complete one, but must be the awesome one!
 
 # Hybird App
 
+- [React Native](https://facebook.github.io/react-native/)
+
 - [weex](http://alibaba.github.io/weex/index.html)
 
-- [React Native](https://facebook.github.io/react-native/)
+- [ionic](https://github.com/driftyco/ionic)
 
 # Blogs
 
