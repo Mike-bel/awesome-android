@@ -6,6 +6,14 @@ By chrisbanes.
 
 PhotoView aims to help produce an easily usable implementation of a zooming Android ImageView.
 
+# Large Image
+
+## [subsampling-scale-image-view](https://github.com/davemorrissey/subsampling-scale-image-view)
+
+By davemorrissey.
+
+Highly configurable, easily extendable view with pan and zoom gestures for displaying huge images without loss of detail. Perfect for photo galleries, maps, building plans etc.
+
 # Crop
 
 ## [uCrop](https://github.com/Yalantis/uCrop)
