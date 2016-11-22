@@ -52,5 +52,5 @@
 
 - [awesome-view](https://github.com/xinghongfei/awesome-view)
 
-By xinghongfei.
+  By xinghongfei.
 
