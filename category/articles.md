@@ -28,7 +28,29 @@
 
 - [Android 属性动画之LayoutAnimation](http://blog.csdn.net/feiduclear_up/article/details/45919613)
 
+- [公共技术点之 Android 动画基础](http://a.codekk.com/detail/Android/lightSky/%E5%85%AC%E5%85%B1%E6%8A%80%E6%9C%AF%E7%82%B9%E4%B9%8B%20Android%20%E5%8A%A8%E7%94%BB%E5%9F%BA%E7%A1%80)
+
 # Drawable
 
 - Keegan小钢-Android 样式的开发系列之[shape篇](http://keeganlee.me/post/android/20150830)、[selector篇](http://keeganlee.me/post/android/20150905)、[layer-list篇](http://keeganlee.me/post/android/20150909)、[drawable汇总篇](http://keeganlee.me/post/android/20150916)、[View Animation篇](http://keeganlee.me/post/android/20151003)、[Property Animation篇](http://keeganlee.me/post/android/20151026)、[Style篇](http://keeganlee.me/post/android/20151031)
+
+# Custom Views
+
+## 绘制基础
+
+- [公共技术点之 View 绘制流程](http://a.codekk.com/detail/Android/lightSky/%E5%85%AC%E5%85%B1%E6%8A%80%E6%9C%AF%E7%82%B9%E4%B9%8B%20View%20%E7%BB%98%E5%88%B6%E6%B5%81%E7%A8%8B)
+
+- [GcsSloop 自定义 View 系列](https://github.com/GcsSloop/AndroidNote#自定义view)
+
+- [AigeStudio 自定义控件其实很简单](http://blog.csdn.net/column/details/androidcustomview.html)
+
+## 事件传递
+
+- [公共技术点之 View 事件传递](http://a.codekk.com/detail/Android/Trinea/%E5%85%AC%E5%85%B1%E6%8A%80%E6%9C%AF%E7%82%B9%E4%B9%8B%20View%20%E4%BA%8B%E4%BB%B6%E4%BC%A0%E9%80%92)
+
+## References
+
+- [awesome-view](https://github.com/xinghongfei/awesome-view)
+
+By xinghongfei.
 
