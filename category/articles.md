@@ -10,6 +10,8 @@
 
 - [23 种设计模式](http://wiki.jikexueyuan.com/project/java-design-pattern/)
 
+- [android_design_patterns_analysis](https://github.com/simple-android-framework/android_design_patterns_analysis)
+
 - [深入浅出单实例 Singleton 设计模式](http://coolshell.cn/articles/265.html)
 
   补充：也可以直接参考文章[如何正确地写出单例模式](http://wuchong.me/blog/2014/08/28/how-to-correctly-write-singleton-pattern/)，同时有关Static和Singleton区别的问题可以参考外国的一篇文章[Difference between Singleton Pattern vs Static Class in Java](http://javarevisited.blogspot.tw/2013/03/difference-between-singleton-pattern-vs-static-class-java.html)。
@@ -49,6 +51,8 @@
   - [公共技术点之 View 事件传递](http://a.codekk.com/detail/Android/Trinea/%E5%85%AC%E5%85%B1%E6%8A%80%E6%9C%AF%E7%82%B9%E4%B9%8B%20View%20%E4%BA%8B%E4%BB%B6%E4%BC%A0%E9%80%92)
 
 - References
+
+  - [ENViews](https://github.com/codeestX/ENViews)
 
   - [awesome-view](https://github.com/xinghongfei/awesome-view)
 
