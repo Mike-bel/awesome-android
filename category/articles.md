@@ -43,6 +43,8 @@
   - [公共技术点之 View 绘制流程](http://a.codekk.com/detail/Android/lightSky/%E5%85%AC%E5%85%B1%E6%8A%80%E6%9C%AF%E7%82%B9%E4%B9%8B%20View%20%E7%BB%98%E5%88%B6%E6%B5%81%E7%A8%8B)
 
   - [GcsSloop 自定义 View 系列](https://github.com/GcsSloop/AndroidNote#自定义view)
+  
+  - [谷歌的小弟 自定义 View 系列教程](http://blog.csdn.net/lfdfhl/article/details/51671038)
 
   - [AigeStudio 自定义控件其实很简单](http://blog.csdn.net/column/details/androidcustomview.html)
 
