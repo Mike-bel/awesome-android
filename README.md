@@ -32,6 +32,8 @@ Maybe it is not the most complete one, but must be the awesome one!
 
   JSON parser/generator, Java serialization/deserialization library.
   
+- [Permissions](https://github.com/Mike-bel/Awesome_Android/blob/master/category/permissions.md)
+  
 - [Office Software](https://github.com/Mike-bel/Awesome_Android/blob/master/category/office_software.md)
 
   pdf, word, excel, ppt and so on.
