@@ -12,3 +12,5 @@
   
   Lobsterpicker is a library for android material design made to support apps and developers if a color should be choosen by a user. The library is offering a dialog with all shades of material design colors.
   
+  ![](https://github.com/Mike-bel/Awesome-Android/blob/master/pictures/Lobsterpicker.jpg?raw=true)
+  
