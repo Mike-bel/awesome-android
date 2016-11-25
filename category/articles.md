@@ -2,6 +2,12 @@
 
 - [http://wenmingvs.github.io/2015/12/07/Android%E9%9D%A2%E8%AF%95%E9%A2%98/](http://wenmingvs.github.io/2015/12/07/Android%E9%9D%A2%E8%AF%95%E9%A2%98/)
 
+- [《剑指 Offer》学习心得](http://wiki.jikexueyuan.com/project/for-offer/)
+
+- [2017年秋季校招面经](http://www.jianshu.com/p/8dbc746b78ea)
+
+  武汉大学的一名计算机硕士总结的IT互联网界各大佬企业的面试经验，并整理了一篇 [复习资料](http://www.jianshu.com/p/51c05d9747ed) ，参考价值颇高。
+
 # Java内存模型
 
 - [http://www.infoq.com/cn/author/%E7%A8%8B%E6%99%93%E6%98%8E#全部](http://www.infoq.com/cn/author/%E7%A8%8B%E6%99%93%E6%98%8E#全部)
