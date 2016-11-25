@@ -80,6 +80,8 @@ Maybe it is not the most complete one, but must be the awesome one!
   
     SwitchButton, CheckBox.
     
+  - [SeekBar](https://github.com/Mike-bel/Awesome_Android/blob/master/category/ui/seekbar.md)
+    
   - [List](https://github.com/Mike-bel/Awesome_Android/blob/master/category/ui/list.md)
   
     ExpandableListView Or TreeView...
