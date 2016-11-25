@@ -65,6 +65,8 @@
   - [谷歌的小弟 自定义 View 系列教程](http://blog.csdn.net/lfdfhl/article/details/51671038)
 
   - [AigeStudio 自定义控件其实很简单](http://blog.csdn.net/column/details/androidcustomview.html)
+  
+  - milter - 教你步步为营掌握自定义 [View](http://www.jianshu.com/p/d507e3514b65) & [ViewGroup](http://www.jianshu.com/p/5e61b6af4e4c)
 
 - 事件传递
 
