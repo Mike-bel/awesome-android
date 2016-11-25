@@ -42,6 +42,12 @@
 
 - [WebP原理和Android支持现状介绍](http://dev.qq.com/topic/582939577ef9c5b708556b0d)
 
+# 增量更新
+
+- [Android 增量更新完全解析 是增量不是热修复](http://blog.csdn.net/lmj623565791/article/details/52761658)
+
+- [Android-app 增量更新的使用姿势](http://46aae4d1e2371e4aa769798941cef698.devproxy.yunshipei.com/qxs965266509/article/details/50987403)
+
 # Custom Views
 
 - 绘制基础
