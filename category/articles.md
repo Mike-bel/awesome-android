@@ -36,6 +36,12 @@
 
 - Keegan小钢-Android 样式的开发系列之[shape篇](http://keeganlee.me/post/android/20150830)、[selector篇](http://keeganlee.me/post/android/20150905)、[layer-list篇](http://keeganlee.me/post/android/20150909)、[drawable汇总篇](http://keeganlee.me/post/android/20150916)、[View Animation篇](http://keeganlee.me/post/android/20151003)、[Property Animation篇](http://keeganlee.me/post/android/20151026)、[Style篇](http://keeganlee.me/post/android/20151031)
 
+# Webp
+
+- [Android Webp 完全解析 快来缩小apk的大小吧](http://blog.csdn.net/lmj623565791/article/details/53240600)
+
+- [WebP原理和Android支持现状介绍](http://dev.qq.com/topic/582939577ef9c5b708556b0d)
+
 # Custom Views
 
 - 绘制基础
