@@ -177,7 +177,7 @@ Maybe it is not the most complete one, but must be the awesome one!
 
 - [XXApple/AndroidLibs](https://github.com/XXApple/AndroidLibs)
 
-- [awesome-view](https://github.com/xinghongfei/awesome-view)
+- [Android-Tips](https://github.com/tangqi92/Android-Tips)
 
 ## External
 
