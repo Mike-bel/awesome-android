@@ -2,9 +2,9 @@
 
 - [Android-RoundCornerProgressBar](https://github.com/akexorcist/Android-RoundCornerProgressBar)
 
-By akexorcist.
+  By akexorcist.
 
-![](https://raw.githubusercontent.com/akexorcist/Android-RoundCornerProgressBar/master/image/header.jpg)
+  ![](https://raw.githubusercontent.com/akexorcist/Android-RoundCornerProgressBar/master/image/header.jpg)
 
 # Vertical
 
@@ -13,6 +13,8 @@ By akexorcist.
   By dinuscxj.
 
   LoadingDrawable is some android animations implement of drawable: a library can be used in the pull-down to refresh, the placeholders of image loading and the time-consuming tasks. This project idea is from the link.
+  
+  ![](https://github.com/Mike-bel/Awesome-Android/blob/master/pictures/LoadingDrawable.gif?raw=true)
   
 - [BezierLoadingView](https://github.com/JeasonWong/BezierLoadingView)
 
