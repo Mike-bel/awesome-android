@@ -1,21 +1,25 @@
-## [Dimezis/BlurView](https://github.com/Dimezis/BlurView)
+- [Dimezis/BlurView](https://github.com/Dimezis/BlurView)
 
-By Dimezis.
+  By Dimezis.
 
-## [wasabeef/Blurry](https://github.com/wasabeef/Blurry)
+- [wasabeef/Blurry](https://github.com/wasabeef/Blurry)
 
-By wasabeef.
+  By wasabeef.
 
-## [500px/500px-android-blur](https://github.com/500px/500px-android-blur)
+- [500px/500px-android-blur](https://github.com/500px/500px-android-blur)
 
-By 500px.
+  By 500px.
 
-## [android-stackblur](https://github.com/kikoso/android-stackblur)
+- [android-stackblur](https://github.com/kikoso/android-stackblur)
 
-By kikoso.
+  By kikoso.
 
-## [PomepuyN/BlurEffectForAndroidDesign](https://github.com/PomepuyN/BlurEffectForAndroidDesign)
+- [PomepuyN/BlurEffectForAndroidDesign](https://github.com/PomepuyN/BlurEffectForAndroidDesign)
 
-By PomepuyN
+  By PomepuyN.
+  
+- [blurkit-android](https://github.com/wonderkiln/blurkit-android)
+
+  By WonderKiln, inc.
 
 References: [Android RenderScript 简单高效实现图片的高斯模糊效果](http://yifeng.studio/2016/10/20/android-renderscript-blur/)
