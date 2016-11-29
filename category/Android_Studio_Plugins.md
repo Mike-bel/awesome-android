@@ -19,6 +19,14 @@
   Instantly update code and resources, and for charge.
 
   References: [[译] 怎样用 JRebel for Android](http://www.jianshu.com/p/be33792f1808)
+  
+- [Buck](https://github.com/facebook/buck)
+
+  A fast build system that encourages the creation of small, reusable modules over a variety of platforms and languages. https://buckbuild.com.
+  
+  Reference: [利用Buck进行高效Android编译](http://www.infoq.com/cn/news/2015/06/buck-android-build)
+  
+  
 
 ## Coding
 
