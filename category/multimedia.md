@@ -24,6 +24,8 @@ By Bilibili, inc.
 
 Android/iOS video player based on FFmpeg n3.1, with MediaCodec, VideoToolbox support.
 
+References: [Android 实现视屏播放器、边播边缓存功能、外加铲屎（IJKPlayer）](http://www.jianshu.com/p/9fe377dd9750)
+
 ## [VitamioBundle](https://github.com/yixia/VitamioBundle)
 
 By yixia, inc.
