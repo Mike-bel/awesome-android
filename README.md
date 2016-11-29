@@ -179,6 +179,8 @@ Maybe it is not the most complete one, but must be the awesome one!
 
 - [Android-Tips](https://github.com/tangqi92/Android-Tips)
 
+- [Andriod-collect-blogs](https://github.com/ZQiang94/Andriod-collect-blogs)
+
 ## External
 
 - [80+ Best Resources for Android Developers 2016 (Blogs, Forums & More)](http://www.anysoftwaretools.com/best-android-development-resources/)
