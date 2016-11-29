@@ -41,6 +41,12 @@
 - [GsonFormat](https://plugins.jetbrains.com/plugin/7654?pr=androidstudio)
 
   Quickly to convert a JSON string to an InnerClassEntity class.
+  
+## Debug
+
+  - [Android-Debug-Database](https://github.com/amitshekhariitbhu/Android-Debug-Database)
+  
+  Android Debug Database is a powerful library for debugging databases and shared preferences in Android applications.
 
 ## Icon
 
