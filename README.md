@@ -125,7 +125,7 @@ Maybe it is not the most complete one, but must be the awesome one!
     Search or filter in toolbar.
 
 
-# Hybird App
+# Hybrid App
 
 - [React Native](https://facebook.github.io/react-native/)
 
