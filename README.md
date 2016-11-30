@@ -56,6 +56,8 @@ Maybe it is not the most complete one, but must be the awesome one!
 
 - UI Design
 
+  - [Animation](https://github.com/Mike-bel/Awesome_Android/blob/master/category/ui/animation.md)
+
   - [Menu](https://github.com/Mike-bel/Awesome_Android/blob/master/category/ui/menu.md)
   
   - [Indicator](https://github.com/Mike-bel/Awesome_Android/blob/master/category/ui/indicator.md)
