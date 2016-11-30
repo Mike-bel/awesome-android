@@ -12,4 +12,4 @@
   
   Signin and Signup in single Screen using PercentRelativeLayout.
   
-  ![](https://github.com/Mike-bel/Awesome-Android/blob/master/pictures/1480317099.gif?raw=true)
+  ![](https://github.com/Mike-bel/Awesome-Android/blob/master/pictures/1480471452.gif?raw=true)
