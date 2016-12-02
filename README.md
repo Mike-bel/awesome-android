@@ -183,6 +183,8 @@ Maybe it is not the most complete one, but must be the awesome one!
 
 - [Andriod-collect-blogs](https://github.com/ZQiang94/Andriod-collect-blogs)
 
+- [AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode)
+
 ## External
 
 - [80+ Best Resources for Android Developers 2016 (Blogs, Forums & More)](http://www.anysoftwaretools.com/best-android-development-resources/)
