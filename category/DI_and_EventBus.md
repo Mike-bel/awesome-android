@@ -28,6 +28,10 @@ By androidannotations, inc.
 
 # Event Bus
 
+## [RxAndroid](https://github.com/ReactiveX/RxAndroid)
+
+By ReactiveX, inc.
+
 ## [EventBus](https://github.com/greenrobot/EventBus)
 
 By greenrobot.
@@ -35,3 +39,4 @@ By greenrobot.
 ## [otto](https://github.com/square/otto)
 
 By square, inc.
+
