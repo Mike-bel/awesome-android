@@ -22,6 +22,10 @@
 
   补充：也可以直接参考文章[如何正确地写出单例模式](http://wuchong.me/blog/2014/08/28/how-to-correctly-write-singleton-pattern/)，同时有关Static和Singleton区别的问题可以参考外国的一篇文章[Difference between Singleton Pattern vs Static Class in Java](http://javarevisited.blogspot.tw/2013/03/difference-between-singleton-pattern-vs-static-class-java.html)。
   
+# 内存管理
+
+- [Android内存优化之OOM —— By 胡凯](http://hukai.me/android-performance-oom/)
+
 # 安全相关
 
 - [写给Android开发者的混淆使用手册](http://www.jianshu.com/p/158aa484da13)
