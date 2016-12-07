@@ -187,6 +187,10 @@ Maybe it is not the most complete one, but must be the awesome one!
 
 - [DiyCodes/code_news](https://github.com/DiyCodes/code_news)
 
+- [Android-Session-Slides](https://github.com/MDCC2016/Android-Session-Slides)
+
+  The Sides In MDCC 2016 Android Session.
+
 ## External
 
 - [80+ Best Resources for Android Developers 2016 (Blogs, Forums & More)](http://www.anysoftwaretools.com/best-android-development-resources/)
