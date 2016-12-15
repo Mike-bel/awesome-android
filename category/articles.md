@@ -7,6 +7,14 @@
 - [2017年秋季校招面经](http://www.jianshu.com/p/8dbc746b78ea)
 
   武汉大学的一名计算机硕士总结的IT互联网界各大佬企业的面试经验，并整理了一篇 [复习资料](http://www.jianshu.com/p/51c05d9747ed) ，参考价值颇高。
+  
+- [国内一线互联网公司内部面试题库](https://github.com/JackyAndroid/AndroidInterview-Q-A/blob/master/README-CN.md#%E6%8E%A5%E5%8F%A3%E7%9A%84%E6%84%8F%E4%B9%89-%E7%99%BE%E5%BA%A6)
+
+- [2016年未，腾讯，百度，华为，搜狗和滴滴面试题汇总](https://gold.xitu.io/entry/584df7dfac502e00692f3455)
+
+- [面试心得与总结---BAT、网易、蘑菇街](https://www.nowcoder.com/discuss/3043)
+
+- [一个五年Android 开发者百度、阿里、聚美、映客的面试心经](https://www.diycode.cc/topics/165)
 
 # Java内存模型
 
