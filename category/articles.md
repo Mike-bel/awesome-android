@@ -20,6 +20,10 @@
 
 - [http://www.infoq.com/cn/author/%E7%A8%8B%E6%99%93%E6%98%8E#全部](http://www.infoq.com/cn/author/%E7%A8%8B%E6%99%93%E6%98%8E#全部)
 
+# Http 相关
+
+- [聊聊Socket、TCP/IP、HTTP、FTP及网络编程](https://my.oschina.net/xianggao/blog/654677)
+
 # 设计模式
 
 - [23 种设计模式](http://wiki.jikexueyuan.com/project/java-design-pattern/)
