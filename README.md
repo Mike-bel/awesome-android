@@ -59,67 +59,53 @@ Maybe it is not the most complete one, but must be the awesome one!
 - UI Design
 
   - [Animation](https://github.com/Mike-bel/Awesome_Android/blob/master/category/ui/animation.md)
-
-  - [Menu](https://github.com/Mike-bel/Awesome_Android/blob/master/category/ui/menu.md)
-  
-  - [Indicator](https://github.com/Mike-bel/Awesome_Android/blob/master/category/ui/indicator.md)
-  
-  - [PullToRefresh](https://github.com/Mike-bel/Awesome_Android/blob/master/category/ui/pulltofresh.md)
   
   - [Banner](https://github.com/Mike-bel/Awesome_Android/blob/master/category/ui/banner.md)
-  
-  - [Dialog](https://github.com/Mike-bel/Awesome_Android/blob/master/category/ui/dialog.md)
-  
-  - [Image](https://github.com/Mike-bel/Awesome_Android/blob/master/category/ui/image.md)
-  
-    zooming, crop, circle or rounded corner, image picker, image editor...
-  
-  - [Text](https://github.com/Mike-bel/Awesome_Android/blob/master/category/ui/text.md)
-  
-    TextView.
-  
-  - [ProgressBar](https://github.com/Mike-bel/Awesome_Android/blob/master/category/ui/progressbar.md)
-  
-  - [Switch](https://github.com/Mike-bel/Awesome_Android/blob/master/category/ui/switch.md)
-  
-    SwitchButton, CheckBox.
-    
-  - [SeekBar](https://github.com/Mike-bel/Awesome_Android/blob/master/category/ui/seekbar.md)
-  
-  - [MaterialDesignLibrary](https://github.com/navasmdc/MaterialDesignLibrary)
-  
-    This is a library with components of Android L to you use in android 2.2
-    
-  - [List](https://github.com/Mike-bel/Awesome_Android/blob/master/category/ui/list.md)
-  
-    ExpandableListView Or TreeView...
   
   - [Blur](https://github.com/Mike-bel/Awesome_Android/blob/master/category/ui/blur.md)
   
     Gaussian Blur and Ground Glass Effect for image.
     
+  - [BottomSheet](https://github.com/Mike-bel/Awesome_Android/blob/master/category/ui/bottomsheet.md)
+    
   - [CaseView](https://github.com/Mike-bel/Awesome_Android/blob/master/category/ui/caseview.md)
   
     You can call it CaseView, TipsView, or GuideView.
-    
-  - [BottomSheet](https://github.com/Mike-bel/Awesome_Android/blob/master/category/ui/bottomsheet.md)
   
-  - [WheelView](https://github.com/Mike-bel/Awesome_Android/blob/master/category/ui/wheelview.md)
+  - [Dialog](https://github.com/Mike-bel/Awesome_Android/blob/master/category/ui/dialog.md)
   
-    A picker or selector for date time, age, provinces, sex and so on.
-    
-  - [RippleEffect](https://github.com/Mike-bel/Awesome_Android/blob/master/category/ui/ripple.md)
+  - [Guide Page](https://github.com/Mike-bel/Awesome_Android/blob/master/category/ui/guide_page.md)
+  
+  - [Image](https://github.com/Mike-bel/Awesome_Android/blob/master/category/ui/image.md)
+  
+    zooming, crop, circle or rounded corner, image picker, image editor...
+  
+  - [Indicator](https://github.com/Mike-bel/Awesome_Android/blob/master/category/ui/indicator.md)
+  
+  - [Label](https://github.com/Mike-bel/Awesome_Android/blob/master/category/ui/label.md)
+  
+    LabelView, etc.
+  
+  - [List](https://github.com/Mike-bel/Awesome_Android/blob/master/category/ui/list.md)
+  
+    ExpandableListView Or TreeView...
+
+  - [Menu](https://github.com/Mike-bel/Awesome_Android/blob/master/category/ui/menu.md)
+  
+  - [MaterialDesignLibrary](https://github.com/navasmdc/MaterialDesignLibrary)
+  
+    This is a library with components of Android L to you use in android 2.2.
+  
+  - [OneStep](https://github.com/SmartisanTech/android)
   
   - [PraiseAnimation](https://github.com/Mike-bel/Awesome_Android/blob/master/category/ui/praise.md)
   
     Praise, Collect, or other actions.
-    
-  - [ViewPager](https://github.com/Mike-bel/Awesome_Android/blob/master/category/ui/viewpager.md)
   
-  - [Guide Page](https://github.com/Mike-bel/Awesome_Android/blob/master/category/ui/guide_page.md)
+  - [PullToRefresh](https://github.com/Mike-bel/Awesome_Android/blob/master/category/ui/pulltofresh.md)
   
-  - [OneStep](https://github.com/SmartisanTech/android)
-    
+  - [ProgressBar](https://github.com/Mike-bel/Awesome_Android/blob/master/category/ui/progressbar.md)
+  
   - [Page Transition](https://github.com/Mike-bel/Awesome_Android/blob/master/category/ui/page_transition.md)
   
     Transitions, shared elements, swipe back between activities.
@@ -127,10 +113,26 @@ Maybe it is not the most complete one, but must be the awesome one!
   - [Page Header](https://github.com/Mike-bel/Awesome_Android/blob/master/category/ui/page_header.md)
   
     Some common designs in detail page, personal info page, and so on.
+  
+  - [RippleEffect](https://github.com/Mike-bel/Awesome_Android/blob/master/category/ui/ripple.md)
+  
+  - [Switch](https://github.com/Mike-bel/Awesome_Android/blob/master/category/ui/switch.md)
+  
+    SwitchButton, CheckBox.
     
+  - [SeekBar](https://github.com/Mike-bel/Awesome_Android/blob/master/category/ui/seekbar.md)
+  
   - [Search](https://github.com/Mike-bel/Awesome_Android/blob/master/category/ui/search.md)
   
     Search or filter in toolbar.
+  
+  - [Text](https://github.com/Mike-bel/Awesome_Android/blob/master/category/ui/text.md)
+  
+  - [ViewPager](https://github.com/Mike-bel/Awesome_Android/blob/master/category/ui/viewpager.md)
+  
+  - [WheelView](https://github.com/Mike-bel/Awesome_Android/blob/master/category/ui/wheelview.md)
+  
+    A picker or selector for date time, age, provinces, sex and so on.
 
 
 # Hybrid App
