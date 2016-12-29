@@ -1,3 +1,10 @@
+
+# [mars](https://github.com/Tencent/mars)
+
+By Tencent, inc.
+
+Mars is a cross-platform infrastructure component developed by WeChat Mobile Team.
+
 # [retrofit](https://github.com/square/retrofit)
 
 By square, inc.
