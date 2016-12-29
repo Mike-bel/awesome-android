@@ -26,6 +26,10 @@
 
 - [聊聊Socket、TCP/IP、HTTP、FTP及网络编程](https://my.oschina.net/xianggao/blog/654677)
 
+# App 架构
+
+- [Android开发架构思考及经验总结](https://zhuanlan.zhihu.com/p/24614642)
+
 # 设计模式
 
 - [23 种设计模式](http://wiki.jikexueyuan.com/project/java-design-pattern/)
