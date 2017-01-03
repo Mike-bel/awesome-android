@@ -41,3 +41,9 @@ Yet another Material Design Android app for Douban.
 ## [SimplifyReader](https://github.com/chentao0707/SimplifyReader)
 
 By chentao0707.
+
+## [LeeCo](https://github.com/Nightonke/LeeCo)
+
+By Nightonke.
+
+LeeCo is an awesome app for (including unlock) problems, solutions, discuss(from leetcode) and comments.
