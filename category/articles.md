@@ -1,5 +1,7 @@
 # Android Interview（面试题集锦）
 
+- [软件（技术类）岗位简历的撰写要点](http://cv.qiaobutang.com/knowledge/articles/51e78edc0cf288a38a1ec260)
+
 - [http://wenmingvs.github.io/2015/12/07/Android%E9%9D%A2%E8%AF%95%E9%A2%98/](http://wenmingvs.github.io/2015/12/07/Android%E9%9D%A2%E8%AF%95%E9%A2%98/)
 
 - [《剑指 Offer》学习心得](http://wiki.jikexueyuan.com/project/for-offer/)
