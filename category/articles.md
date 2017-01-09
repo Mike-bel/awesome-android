@@ -108,3 +108,7 @@
 
     By xinghongfei.
 
+
+# 拓展
+
+- [深入理解Android之 Gradle详解 、Java虚拟机Dalvik、Xposed详解](http://www.infoq.com/cn/android-in-depth)
