@@ -112,3 +112,5 @@
 # 拓展
 
 - [深入理解Android之 Gradle详解 、Java虚拟机Dalvik、Xposed详解](http://www.infoq.com/cn/android-in-depth)
+
+- [GitBook AndroidLearningNotes](https://lc513623756.gitbooks.io/learningnotes/content/)
