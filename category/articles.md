@@ -50,6 +50,16 @@
 
 - [写给Android开发者的混淆使用手册](http://www.jianshu.com/p/158aa484da13)
 
+# 多渠道打包
+
+- [美团点评技术团队：新一代开源Android渠道包生成工具Walle](http://tech.meituan.com/android-apk-v2-signature-scheme.html)
+
+- [美团Android自动化之旅—生成渠道包](http://tech.meituan.com/mt-apk-packaging.html)
+
+- [Android Apk 动态写入数据方案，用于添加渠道号，数据倒流等](http://linghaolu.github.io/apk/2016/04/02/apk-comment.html)
+
+- [Gradle 定制渠道包](http://wuxiaolong.me/2016/04/01/gradle4android3/)
+
 # Animation
 
 - [Android属性动画完全解析(上)，初识属性动画的基本用法](http://blog.csdn.net/sinyu890807/article/details/43536355)
