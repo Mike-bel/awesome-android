@@ -32,6 +32,8 @@
 
 - [Android开发架构思考及经验总结](https://zhuanlan.zhihu.com/p/24614642)
 
+- [Android架构探索](https://www.gitbook.com/book/theseyears/android-architecture-journey/details)
+
 # 设计模式
 
 - [23 种设计模式](http://wiki.jikexueyuan.com/project/java-design-pattern/)
