@@ -126,3 +126,5 @@
 - [深入理解Android之 Gradle详解 、Java虚拟机Dalvik、Xposed详解](http://www.infoq.com/cn/android-in-depth)
 
 - [GitBook AndroidLearningNotes](https://lc513623756.gitbooks.io/learningnotes/content/)
+
+- [系列文章 —— Android应用程序开发以及背后的设计思想深度剖析](http://www.uml.org.cn/mobiledev/201211063.asp#1)
