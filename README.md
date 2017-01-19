@@ -219,6 +219,8 @@ Maybe it is not the most complete one, but must be the awesome one!
 
 - [Android-Tips](https://github.com/tangqi92/Android-Tips)
 
+- [awesome-android](https://github.com/snowdream/awesome-android)
+
 - [Andriod-collect-blogs](https://github.com/ZQiang94/Andriod-collect-blogs)
 
 - [AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode)
