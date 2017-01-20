@@ -199,6 +199,10 @@ Maybe it is not the most complete one, but must be the awesome one!
 
 - [androidtool-mac](https://github.com/mortenjust/androidtool-mac)
 
+- [开发助手](http://sj.qq.com/myapp/detail.htm?apkName=cn.trinea.android.developertools)
+
+- [带壳截图](http://sj.qq.com/myapp/detail.htm?apkName=com.sspai.dkjt)
+
 # References
 
 ## Internal
