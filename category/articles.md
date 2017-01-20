@@ -34,6 +34,10 @@
 
 - [Android架构探索](https://www.gitbook.com/book/theseyears/android-architecture-journey/details)
 
+# Review
+
+- [总结Android开发中必备的代码Review清单](http://www.jianshu.com/p/4b65967fe4a0)
+
 # 设计模式
 
 - [23 种设计模式](http://wiki.jikexueyuan.com/project/java-design-pattern/)
