@@ -4,6 +4,10 @@
 
 By chrisbanes.
 
+# [https://github.com/jianghejie/XRecyclerView](XRecyclerView)
+
+By jianghejie.
+
 ## [android-Ultra-Pull-To-Refresh](https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh)
 
 By liaohuqiu.
