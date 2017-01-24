@@ -24,6 +24,10 @@
 
 - [http://www.infoq.com/cn/author/%E7%A8%8B%E6%99%93%E6%98%8E#全部](http://www.infoq.com/cn/author/%E7%A8%8B%E6%99%93%E6%98%8E#全部)
 
+# 算法相关
+
+- [传经授道——我的算法学习之路](http://book.douban.com/subject/3238803/)
+
 # Http 相关
 
 - [聊聊Socket、TCP/IP、HTTP、FTP及网络编程](https://my.oschina.net/xianggao/blog/654677)
