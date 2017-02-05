@@ -1,4 +1,11 @@
-- [ToDoList](https://github.com/Yalantis/ToDoList)
+- [Lottie for Android](https://github.com/airbnb/lottie-android)
+
+  By airbnb, inc.
+  
+  Lottie is a mobile library for Android and iOS that parses Adobe After Effects animations exported as json with Bodymovin
+  and renders them natively on mobile!
+
+- [ToDoList](https://github.com/Mike-bel/Awesome-Android/blob/master/pictures/1486269282.gif?raw=true)
 
   By Yalantis, inc.
   
@@ -14,10 +21,4 @@
   
   ![](https://github.com/Mike-bel/Awesome-Android/blob/master/pictures/1480471452.gif?raw=true)
   
-- [Lottie for Android](https://github.com/airbnb/lottie-android)
-
-  By airbnb, inc.
-  
-  Lottie is a mobile library for Android and iOS that parses Adobe After Effects animations exported as json with Bodymovin
-  and renders them natively on mobile!
 
