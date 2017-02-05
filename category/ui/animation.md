@@ -13,3 +13,11 @@
   Signin and Signup in single Screen using PercentRelativeLayout.
   
   ![](https://github.com/Mike-bel/Awesome-Android/blob/master/pictures/1480471452.gif?raw=true)
+  
+- [Lottie for Android](https://github.com/airbnb/lottie-android)
+
+  By airbnb, inc.
+  
+  Lottie is a mobile library for Android and iOS that parses Adobe After Effects animations exported as json with Bodymovin
+  and renders them natively on mobile!
+
