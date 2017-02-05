@@ -5,7 +5,7 @@
   Lottie is a mobile library for Android and iOS that parses Adobe After Effects animations exported as json with Bodymovin
   and renders them natively on mobile!
 
-- [ToDoList](https://github.com/Mike-bel/Awesome-Android/blob/master/pictures/1486269282.gif?raw=true)
+- [ToDoList](https://github.com/Yalantis/ToDoList)
 
   By Yalantis, inc.
   
