@@ -11,7 +11,7 @@
   
   Micro-Transitions for Smooth Android To-Do List Animations.
   
-  ![](https://github.com/Yalantis/ToDoList/raw/master/content_shot_to-do_dribbble.gif)
+  ![](https://github.com/Mike-bel/Awesome-Android/blob/master/pictures/1486269282.gif?raw=true)
   
 - [OnePageSigninSignup](https://github.com/irfaan008/OnePageSigninSignup)
 
