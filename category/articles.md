@@ -60,6 +60,8 @@
 
 - [写给Android开发者的混淆使用手册](http://www.jianshu.com/p/158aa484da13)
 
+- [Beginner to ProGuard:Part 1 — The Basics](https://medium.com/@jonfinerty/beginner-to-proguard-b3327ff3a831#.4gdgjeg6q)
+
 - [ProGuard manual——GuardSquare](https://www.guardsquare.com/en/proguard/manual/usage)
 
 - [Android优化系列一： 日志清理](http://www.snowdream.tech/2016/10/22/android-optimalize-series-log/)
