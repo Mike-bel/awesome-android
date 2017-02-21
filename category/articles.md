@@ -20,6 +20,8 @@
 
 - [一个五年Android 开发者百度、阿里、聚美、映客的面试心经](https://www.diycode.cc/topics/165)
 
+- [android面试的java知识点总结](http://www.jianshu.com/p/4cf264eff733) & [2017阿里实习JAVA研发工程师面经](http://www.jianshu.com/p/b73ddb797581)
+
 # Java内存模型
 
 - [http://www.infoq.com/cn/author/%E7%A8%8B%E6%99%93%E6%98%8E#全部](http://www.infoq.com/cn/author/%E7%A8%8B%E6%99%93%E6%98%8E#全部)
