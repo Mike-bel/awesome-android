@@ -172,6 +172,7 @@ Maybe it is not the most complete one, but must be the awesome one!
     - [Android Material Icon Generator](http://jaqen.me/mdpub/)：Android Material 材料风格图标LOGO生成器
     - [Flat icon generator](https://flat-icon.surge.sh/)：扁平化图标生成器
     - [Android Asset Studio](https://romannurik.github.io/AndroidAssetStudio/index.html)：安卓图标生成器，根据应用内用途可生成多种规格的图标
+    - [Android 9-patch shadow generator](http://inloop.github.io/shadow4android/)
 
   - EDITOR
   
