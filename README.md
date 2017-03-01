@@ -246,4 +246,6 @@ Maybe it is not the most complete one, but must be the awesome one!
 
 - [awesome-android-libraries](https://github.com/wasabeef/awesome-android-libraries)
 
+- [awesome-android-things](https://github.com/amitshekhariitbhu/awesome-android-things) & [awesome-android-complete-reference](https://github.com/amitshekhariitbhu/awesome-android-complete-reference) by [amitshekhariitbhu](https://github.com/amitshekhariitbhu)
+
 
