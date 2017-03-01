@@ -42,6 +42,15 @@
 
   Quickly to convert a JSON string to an InnerClassEntity class.
   
+- [Android Code Generator](https://github.com/tmorcinek/android-codegenerator-plugin-intellij)
+
+  Plugin for generation of Android code from XML files (layouts, menus).
+  
+- [Android Layout ID Converter](https://plugins.jetbrains.com/idea/plugin/7373-android-layout-id-converter)
+
+  This plugin convert IDs in your android layout xml, to java source code. Supported format: Plain Android style, AndroidAnnotations, ButterKnife.
+  
+  
 ## Debug
 
   - [Android-Debug-Database](https://github.com/amitshekhariitbhu/Android-Debug-Database)
@@ -73,5 +82,9 @@
   A simple Studio/IntelliJ plugin that parses your Android library dependencies and shows the methods count as an handy hint.
 
   Extends: [apk-method-count](http://inloop.github.io/apk-method-count/), the online version.
-
   
+## Performance Optimization
+  
+- [FindBugs-IDEA](https://plugins.jetbrains.com/androidstudio/plugin/3847-findbugs-idea)
+
+  Provides static byte code analysis to look for bugs in Java code from within IntelliJ IDEA. 
