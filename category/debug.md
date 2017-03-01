@@ -13,3 +13,9 @@
   Stetho is a debug bridge for Android applications, enabling the powerful Chrome Developer Tools and much more. http://facebook.github.io/stetho/.
   
   reference to : [http://blog.csdn.net/sbsujjbcy/article/details/45420475](http://blog.csdn.net/sbsujjbcy/article/details/45420475)
+
+## [Android-Debug-Database](https://github.com/amitshekhariitbhu/Android-Debug-Database)
+
+  By amitshekhariitbhu.
+  
+  Android Debug Database is a powerful library for debugging databases and shared preferences in Android applications.
