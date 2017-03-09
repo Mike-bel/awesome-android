@@ -135,7 +135,10 @@
   - [awesome-view](https://github.com/xinghongfei/awesome-view)
 
     By xinghongfei.
+    
+# App Links
 
+  - [Android M App Links: 实现, 缺陷以及解决办法](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0718/3200.html)
 
 # 拓展
 
