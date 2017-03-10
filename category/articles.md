@@ -119,6 +119,8 @@
   - [AigeStudio 自定义控件其实很简单](http://blog.csdn.net/column/details/androidcustomview.html)
   
   - milter - 教你步步为营掌握自定义 [View](http://www.jianshu.com/p/d507e3514b65) & [ViewGroup](http://www.jianshu.com/p/5e61b6af4e4c)
+  
+  - [张鸿洋专栏 -- 【Android 自定义控件之起步】](http://blog.csdn.net/lmj623565791/article/category/2680591)
 
 - 事件传递
 
@@ -127,6 +129,10 @@
   - [ViewPager，ScrollView 嵌套ViewPager滑动冲突解决](http://blog.csdn.net/gdutxiaoxu/article/details/52939127)
   
   - [一个Demo带你彻底掌握View的滑动冲突](http://blog.csdn.net/tyk0910/article/details/53414299)
+
+- 一些细节
+
+  - [深入理解Android 自定义attr Style styleable以及其应用](http://www.jianshu.com/p/61b79e7f88fc)
 
 - References
 
