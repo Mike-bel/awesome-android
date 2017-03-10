@@ -204,6 +204,8 @@ Maybe it is not the most complete one, but must be the awesome one!
 
 - [带壳截图](http://sj.qq.com/myapp/detail.htm?apkName=com.sspai.dkjt)
 
+- [Proxy App](https://github.com/jpkrause/AndroidProxySetter)
+
 # References
 
 ## Internal
