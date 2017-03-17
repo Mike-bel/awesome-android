@@ -80,6 +80,8 @@
 
 - [Gradle 定制渠道包](http://wuxiaolong.me/2016/04/01/gradle4android3/)
 
+- [packer-ng-plugin](https://github.com/mcxiaoke/packer-ng-plugin)
+
 # Animation
 
 - [Android属性动画完全解析(上)，初识属性动画的基本用法](http://blog.csdn.net/sinyu890807/article/details/43536355)
