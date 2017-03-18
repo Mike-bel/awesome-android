@@ -4,6 +4,12 @@
   
   Lottie is a mobile library for Android and iOS that parses Adobe After Effects animations exported as json with Bodymovin
   and renders them natively on mobile!
+  
+- [facebook/rebound](https://github.com/facebook/rebound)
+
+  By FaceBook, inc.
+  
+  Rebound is a java library that models spring dynamics. Rebound spring models can be used to create animations that feel natural by introducing real world physics to your application.
 
 - [ToDoList](https://github.com/Yalantis/ToDoList)
 
