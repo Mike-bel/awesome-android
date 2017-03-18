@@ -9,7 +9,7 @@
 
   By FaceBook, inc.
   
-  Rebound is a java library that models spring dynamics. Rebound spring models can be used to create animations that feel natural by introducing real world physics to your application.
+  Rebound is a java library that models spring dynamics. Rebound spring models can be used to create animations that feel       natural by introducing real world physics to your application.
 
 - [ToDoList](https://github.com/Yalantis/ToDoList)
 
