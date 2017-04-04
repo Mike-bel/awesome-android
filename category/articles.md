@@ -125,6 +125,8 @@
   - milter - 教你步步为营掌握自定义 [View](http://www.jianshu.com/p/d507e3514b65) & [ViewGroup](http://www.jianshu.com/p/5e61b6af4e4c)
   
   - [张鸿洋专栏 -- 【Android 自定义控件之起步】](http://blog.csdn.net/lmj623565791/article/category/2680591)
+  
+  - [CSDN专栏 -- Android自定义控件基础及进阶](http://blog.csdn.net/column/details/defineview.html)
 
 - 事件传递
 
