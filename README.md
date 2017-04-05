@@ -135,7 +135,7 @@ Maybe it is not the most complete one, but must be the awesome one!
     A picker or selector for date time, age, provinces, sex and so on.
 
 
-# Hybrid App
+# Frameworks for building Mobile cross-platform UIs
 
 - [React Native](https://facebook.github.io/react-native/)
 
@@ -239,6 +239,8 @@ Maybe it is not the most complete one, but must be the awesome one!
 - [Android-Session-Slides](https://github.com/MDCC2016/Android-Session-Slides)
 
   The Sides In MDCC 2016 Android Session.
+  
+- [RxJavaSamples](https://github.com/THEONE10211024/RxJavaSamples)
 
 ## External
 
