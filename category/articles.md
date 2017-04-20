@@ -158,9 +158,9 @@
 
   - [Gradle Android Plugin 中文手册](https://www.gitbook.com/book/chaosleong/gradle-for-android/details)
   
-  - [Gradle For Android 系列文章](https://segmentfault.com/a/1190000004229002)
+  - [Gradle For Android 系列文章](https://segmentfault.com/a/1190000004229002)
   
-  - [Gradle For Android And Java By Udacity](https://www.udacity.com/course/gradle-for-android-and-java--ud867)
+  - [Gradle For Android And Java By Udacity](https://www.udacity.com/course/gradle-for-android-and-java--ud867)
 
 # 拓展
 
