@@ -153,6 +153,14 @@
 # App Links
 
   - [Android M App Links: 实现, 缺陷以及解决办法](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0718/3200.html)
+  
+# Gradle
+
+  - [Gradle Android Plugin 中文手册](https://www.gitbook.com/book/chaosleong/gradle-for-android/details)
+  
+  - [Gradle For Android 系列文章](https://segmentfault.com/a/1190000004229002)
+  
+  - [Gradle For Android And Java By Udacity](https://www.udacity.com/course/gradle-for-android-and-java--ud867)
 
 # 拓展
 
