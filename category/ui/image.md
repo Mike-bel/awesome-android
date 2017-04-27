@@ -56,6 +56,10 @@ By pungrue26.
 
 # Picker
 
+## [Matisse](https://github.com/zhihu/Matisse)
+
+By zhihu, inc.
+
 ## [GalleryFinal](https://github.com/pengjianbo/GalleryFinal)
 
 By pengjianbo.
