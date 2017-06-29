@@ -39,6 +39,10 @@
 - [android-butterknife-zelezny](https://github.com/avast/android-butterknife-zelezny)
 
   Generating ButterKnife injections from selected layout XML.
+  
+- [LayoutCreator](https://plugins.jetbrains.com/plugin/8119-layoutcreator)
+
+  Auto generator findViewById code in Activity or Adapter(ViewHolder) etc.
 
 - [GsonFormat](https://plugins.jetbrains.com/plugin/7654?pr=androidstudio)
 
@@ -55,7 +59,7 @@
   
 ## Debug
 
-  - [Android-Debug-Database](https://github.com/amitshekhariitbhu/Android-Debug-Database)
+- [Android-Debug-Database](https://github.com/amitshekhariitbhu/Android-Debug-Database)
   
   Android Debug Database is a powerful library for debugging databases and shared preferences in Android applications.
 
