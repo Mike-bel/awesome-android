@@ -90,6 +90,10 @@
   Extends: [apk-method-count](http://inloop.github.io/apk-method-count/), the online version.
   
 ## Performance Optimization
+
+- [CheckStyle](https://plugins.jetbrains.com/plugin/1065-checkstyle-idea)
+
+  This plugin provides both real-time and on-demand scanning of Java files with CheckStyle from within IDEA.
   
 - [FindBugs-IDEA](https://plugins.jetbrains.com/androidstudio/plugin/3847-findbugs-idea)
 
