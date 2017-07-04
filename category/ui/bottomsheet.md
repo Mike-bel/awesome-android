@@ -1,5 +1,15 @@
 
-## [BottomSheet](https://github.com/soarcn/BottomSheet)
+## [Flipboard/bottomsheet](https://github.com/Flipboard/bottomsheet)
+
+By Flipboard, inc.
+
+BottomSheet is an Android component which presents a dismissible view from the bottom of the screen. 
+
+Intent Picker | Menu Sheet | ImagePicker Sheet
+--- | --- | ---
+![IntentPickerSheetView gif](http://i.imgur.com/wr9HJD1.gif) | ![MenuSheetView gif](http://i.imgur.com/f2j9Y5e.gif) | ![ImagePickerSheetView gif](https://camo.githubusercontent.com/23a9cf2bf9353a98d1b585e79d06639c7f5297c7/687474703a2f2f692e696d6775722e636f6d2f6f67764b4735692e676966)
+
+## [soarcn/BottomSheet](https://github.com/soarcn/BottomSheet)
 
 By soarcn.
 
