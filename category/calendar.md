@@ -146,7 +146,8 @@ By JZXiang.
 
 By vikramkakkar.
 
-<img src="https://github.com/vikramkakkar/SublimePicker/raw/master/img/date_picker_v2.png?raw=true" width="200"/> <img src="https://github.com/vikramkakkar/SublimePicker/raw/master/img/date_picker_date_range_v2.png?raw=true" width="200"/> <img src="https://github.com/vikramkakkar/SublimePicker/raw/master/img/date_picker_date_range_spanned_v2.png?raw=true" width="200"/>
+<img src="https://github.com/vikramkakkar/SublimePicker/raw/master/img/date_picker_v2.png?raw=true" width="200"/> <img src="https://github.com/vikramkakkar/SublimePicker/raw/master/img/date_picker_date_range_v2.png?raw=true" width="200"/> <img src="https://github.com/vikramkakkar/SublimePicker/raw/master/img/time_picker_v2.png?raw=true" width="200"/>
 
-<img src="https://github.com/vikramkakkar/SublimePicker/raw/master/img/date_picker_date_range_land_v2.png?raw=true" width="200"/>
+<img src="https://github.com/vikramkakkar/SublimePicker/raw/master/img/recurrence_picker_v2.png?raw=true" width="200"/> <img src="https://github.com/vikramkakkar/SublimePicker/raw/master/img/recurrence_option_creator_v2.png?raw=true" width="200"/> <img src="https://github.com/vikramkakkar/SublimePicker/raw/master/img/recurrence_option_creator_end_date_v2.png?raw=true" width="200"/> <img src="https://github.com/vikramkakkar/SublimePicker/raw/master/img/sampler_v2.png?raw=true" width="200"/>
+
 
