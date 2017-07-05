@@ -59,6 +59,6 @@ Caldroid is a fragment that display calendar with dates in a month. Caldroid can
 
 By romannurik.
 
-CalendarListview provides a easy way to select dates with a calendar for API 10+. You can find a sample that show how to add DatePickerView to your layout without customization.
+simple example of a responsive Month Calendar app widget for Android 4.1+.
 
 <img src="https://camo.githubusercontent.com/d5fe492d922b4ff1fb2e050fc33e0d99dc12105f/68747470733a2f2f7261772e6769746875622e636f6d2f726f6d616e6e7572696b2f416e64726f69642d4d6f6e746843616c656e6461725769646765742f6d61737465722f6865726f2e706e67" width="200"/>
