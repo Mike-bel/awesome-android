@@ -18,7 +18,7 @@ By liaohuqiu.
 
 By race604.
 
-<img src="https://github.com/race604/FlyRefresh/blob/master/images/flyrefresh.gif" width="200"/>
+<img src="https://github.com/race604/FlyRefresh/blob/master/images/flyrefresh.gif" height="300"/>
 
 ## [Phoenix](https://github.com/Yalantis/Phoenix)
 
