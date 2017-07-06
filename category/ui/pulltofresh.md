@@ -1,5 +1,9 @@
 # Normal
 
+## [CymChad/BaseRecyclerViewAdapterHelper](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)
+
+By CymChad.
+
 ## [Android-PullToRefresh](https://github.com/chrisbanes/Android-PullToRefresh)
 
 By chrisbanes.
@@ -36,7 +40,7 @@ By Yalantis.
 
 By dasdom.
 
-![dasdom/BreakOutToRefresh](https://raw.githubusercontent.com/dasdom/BreakOutToRefresh/master/Example/PullToRefreshDemo/what.gif)
+<img src="https://raw.githubusercontent.com/dasdom/BreakOutToRefresh/master/Example/PullToRefreshDemo/what.gif" height="300"/>
 
 # For Learning
 
