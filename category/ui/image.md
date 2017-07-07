@@ -79,13 +79,13 @@ By pengjianbo.
 
 <img src="https://github.com/pengjianbo/GalleryFinal/raw/master/images/gallery_final_effect.png" height="300"/>
 
-# Image Editor
+# ■ Image Editor
 
 ## [android-gpuimage](https://github.com/CyberAgent/android-gpuimage)
 
 By CyberAgent, inc.
 
-Idea from: iOS GPUImage framework.
+Goal is to have something as similar to GPUImage as possible. Vertex and fragment shaders are exactly the same. That way it makes it easier to port filters from GPUImage iOS to Android.
 
 ## [PhotoEditDemo](https://github.com/jarlen/PhotoEditDemo)
 
