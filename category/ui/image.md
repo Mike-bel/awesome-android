@@ -70,7 +70,7 @@ Matisse is a well-designed local image and video selector for Android. You can
 - More to find out yourself
 
 Zhihu Style | Dracula Style | Preview
---- | --- | 
+--- | --- | ---
 <img src="https://github.com/zhihu/Matisse/raw/master/image/screenshot_zhihu.png" height="300"/> | <img src="https://github.com/zhihu/Matisse/raw/master/image/screenshot_dracula.png" height="300"/> | <img src="https://github.com/zhihu/Matisse/raw/master/image/screenshot_preview.png" height="300"/>
 
 ## [GalleryFinal](https://github.com/pengjianbo/GalleryFinal)
