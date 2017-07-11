@@ -16,6 +16,10 @@ By jianghejie.
 
 By liaohuqiu.
 
+## [SmartRefreshLayout](https://github.com/scwang90/SmartRefreshLayout)
+
+By scwang90.
+
 # Creative
 
 ## [FlyRefresh](https://github.com/race604/FlyRefresh)
