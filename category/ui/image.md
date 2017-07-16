@@ -79,6 +79,12 @@ By pengjianbo.
 
 <img src="https://github.com/pengjianbo/GalleryFinal/raw/master/images/gallery_final_effect.png" height="300"/>
 
+## [PictureSelector](https://github.com/LuckSiege/PictureSelector)
+
+By LuckSiege.
+
+一款针对android平台下的图片选择器，支持从相册或拍照选择图片或视频、音频，支持动态权限获取、裁剪(单图or多图裁剪)、压缩、主题自定义配置等功能、适配android 6.0+系统的开源图片选择框架。
+
 # ■ Image Editor
 
 ## [android-gpuimage](https://github.com/CyberAgent/android-gpuimage)
