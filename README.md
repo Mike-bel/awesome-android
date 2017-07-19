@@ -62,7 +62,7 @@ Maybe it is not the most complete one, but must be the awesome one!
   
   - [Banner](https://github.com/Mike-bel/Awesome_Android/blob/master/category/ui/banner.md)
   
-  - [BarCode](https://github.com/Mike-bel/Awesome_Android/blob/master/category/ui/bar-code.md)
+  - [BarCode](https://github.com/Mike-bel/awesome-android/blob/master/category/bar-code.md)
   
   - [Blur](https://github.com/Mike-bel/Awesome_Android/blob/master/category/ui/blur.md)
   
