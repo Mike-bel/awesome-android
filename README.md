@@ -76,6 +76,8 @@ Maybe it is not the most complete one, but must be the awesome one!
   
     You can call it CaseView, TipsView, or GuideView.
   
+  - [Danmaku](https://github.com/Mike-bel/Awesome_Android/blob/master/category/ui/danmaku.md)
+  
   - [Dialog](https://github.com/Mike-bel/Awesome_Android/blob/master/category/ui/dialog.md)
   
   - [Guide Page](https://github.com/Mike-bel/Awesome_Android/blob/master/category/ui/guide_page.md)
