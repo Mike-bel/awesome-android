@@ -16,6 +16,14 @@ By psaravan.
 
 Jams is a free, powerful and elegant music player for Android. 
 
+## [StylishMusicPlayer](https://github.com/ryanhoo/StylishMusicPlayer)
+
+By ryanhoo.
+
+A Stylish Music Player.
+
+<img src="https://github.com/ryanhoo/StylishMusicPlayer/raw/develop/materials/Artboard.png" width="80%"/>
+
 # ■ VideoPlayer
 
 ## [ExoPlayer](https://github.com/google/ExoPlayer)
