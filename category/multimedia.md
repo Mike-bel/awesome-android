@@ -22,8 +22,6 @@ By ryanhoo.
 
 A Stylish Music Player.
 
-<img src="https://github.com/ryanhoo/StylishMusicPlayer/raw/develop/materials/Artboard.png" width="80%"/>
-
 # ■ VideoPlayer
 
 ## [ExoPlayer](https://github.com/google/ExoPlayer)
@@ -55,4 +53,14 @@ Pili Live Streaming player SDK for Android, RTMP and HLS supported.
 ## [AndroidVideoPlayer](https://github.com/xiongwei-git/AndroidVideoPlayer)
 
 By xiongwei-git.
+
+# ■ Living
+
+# [SmarterStreaming](https://github.com/daniulive/SmarterStreaming)
+
+By daniulive, inc.
+
+专注、极致、智慧，国内外为数不多不依赖开源框架、跨平台(windows/android/iOS)、公网推送(支持rtmp)-播放(支持rtmp/rtsp)，业界真正靠谱的超低延迟(1秒左右)。
+
+适用于秀场直播、媒体移动直播、应急指挥调度(针对保险、城管、交警、消防、公安等职能管理部门的单兵应急执法系统)、可视化购物、远程专家诊断、可视化巡检、(如电信/电力线路/铁路沿线/水利设施/油田/消防设施巡检)、移动视频安防监控，企业内训、金融在线直播室、在线教育、微信直播、监控对接、活动现场直播、游戏直播等场景。
 
