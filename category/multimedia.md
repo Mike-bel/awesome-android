@@ -50,6 +50,12 @@ By pili-engineering.
 
 Pili Live Streaming player SDK for Android, RTMP and HLS supported.
 
+## [JieCaoVideoPlayer](https://github.com/lipangit/JieCaoVideoPlayer)
+
+By lipangit.
+
+Ambition is become the most widely used video playback control.
+
 ## [AndroidVideoPlayer](https://github.com/xiongwei-git/AndroidVideoPlayer)
 
 By xiongwei-git.
