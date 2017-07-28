@@ -56,3 +56,9 @@ By baoyongzhang.
 
 By android-cjj.
 
+## [AutoRecycleView](https://github.com/GaoGersy/AutoRecycleView)
+
+By GaoGersy.
+
+Extended Reading: [SuperSwipeRefreshLayout](https://github.com/nuptboyzhb/SuperSwipeRefreshLayout)
+
