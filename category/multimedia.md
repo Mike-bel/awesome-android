@@ -22,6 +22,11 @@ By ryanhoo.
 
 A Stylish Music Player.
 
+## [Orin](https://github.com/aliumujib/Orin)
+
+By aliumujib.
+
+
 # ■ VideoPlayer
 
 ## [ExoPlayer](https://github.com/google/ExoPlayer)
