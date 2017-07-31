@@ -133,6 +133,18 @@ Maybe it is not the most complete one, but must be the awesome one!
   - [Search](https://github.com/Mike-bel/Awesome_Android/blob/master/category/ui/search.md)
   
     Search or filter in toolbar.
+    
+  - Shimmer
+  
+    [facebook/shimmer-android](https://github.com/facebook/shimmer-android)
+    
+    &
+    
+    [sharish/ShimmerRecyclerView](https://github.com/sharish/ShimmerRecyclerView)
+    
+    & 
+    
+    [ethanhua/Skeleton](https://github.com/ethanhua/Skeleton)
   
   - [Text](https://github.com/Mike-bel/Awesome_Android/blob/master/category/ui/text.md)
   
