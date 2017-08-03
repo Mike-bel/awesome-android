@@ -98,3 +98,7 @@
 - [FindBugs-IDEA](https://plugins.jetbrains.com/androidstudio/plugin/3847-findbugs-idea)
 
   Provides static byte code analysis to look for bugs in Java code from within IntelliJ IDEA. 
+  
+- [Android-Resource-Usage-Count](https://github.com/niorgai/Android-Resource-Usage-Count)
+
+  Auto count resource usage and show it in the left of each line.
