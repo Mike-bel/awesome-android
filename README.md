@@ -246,6 +246,8 @@ By stormzhang.
 
 ## Internal
 
+- [awesome-android-performance](https://github.com/Juude/awesome-android-performance)
+
 - [Awesome-MaterialDesign](https://github.com/lightSky/Awesome-MaterialDesign) .
 
 - [android-open-project](https://github.com/Trinea/android-open-project) 
