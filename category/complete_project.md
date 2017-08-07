@@ -12,6 +12,10 @@ By Google, inc.
 
 The source code in this repository reflects the app as of I/O 2015.
 
+## [Telegram](https://github.com/DrKLO/Telegram)
+
+Telegram messenger for Android.
+
 # Unofficial
 
 ## [plaid](https://github.com/nickbutcher/plaid)
