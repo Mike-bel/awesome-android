@@ -121,6 +121,8 @@ Maybe it is not the most complete one, but must be the awesome one!
   - [Page Header](https://github.com/Mike-bel/Awesome_Android/blob/master/category/ui/page_header.md)
   
     Some common designs in detail page, personal info page, and so on.
+    
+  - [PopupWindow](https://github.com/Mike-bel/Awesome_Android/blob/master/category/ui/popup_window.md)
   
   - [RippleEffect](https://github.com/Mike-bel/Awesome_Android/blob/master/category/ui/ripple.md)
   
