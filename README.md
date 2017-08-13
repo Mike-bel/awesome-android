@@ -124,6 +124,8 @@ Maybe it is not the most complete one, but must be the awesome one!
     
   - [PopupWindow](https://github.com/Mike-bel/Awesome_Android/blob/master/category/ui/popup_window.md)
   
+  - [RatingBar](https://github.com/Mike-bel/Awesome_Android/blob/master/category/ui/ratingbar.md)
+  
   - [RippleEffect](https://github.com/Mike-bel/Awesome_Android/blob/master/category/ui/ripple.md)
   
   - [Switch](https://github.com/Mike-bel/Awesome_Android/blob/master/category/ui/switch.md)
