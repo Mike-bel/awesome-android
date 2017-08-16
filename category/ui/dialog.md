@@ -9,10 +9,18 @@ By afollestad.
 
 By pedant.
 
-![pedant/sweet-alert-dialog](https://github.com/pedant/sweet-alert-dialog/raw/master/change_type.gif)
+<img src="https://github.com/pedant/sweet-alert-dialog/raw/master/change_type.gif" height="300"/>
 
 ## [android-adDialog](https://github.com/yipianfengye/android-adDialog)
 
 By yipianfengye.
 
-![yipianfengye/android-adDialog](https://github.com/yipianfengye/android-adDialog/raw/master/images/ezgif.com-video-to-gif1.gif)
+<img src="https://github.com/yipianfengye/android-adDialog/raw/master/images/ezgif.com-video-to-gif1.gif" height="300"/>
+
+## [Morphing-Material-Dialogs](https://github.com/AdityaAnand1/Morphing-Material-Dialogs)
+
+By AdityaAnand1.
+
+<img src="https://github.com/AdityaAnand1/Morphing-Material-Dialogs/raw/master/screenies/1.gif" height="300"/>
+
+
