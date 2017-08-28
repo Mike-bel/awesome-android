@@ -82,6 +82,8 @@ Maybe it is not the most complete one, but must be the awesome one!
   
   - [Dialog](https://github.com/Mike-bel/Awesome_Android/blob/master/category/ui/dialog.md)
   
+  - [EditText](https://github.com/Mike-bel/Awesome_Android/blob/master/category/ui/edittext.md)
+  
   - [Guide Page](https://github.com/Mike-bel/Awesome_Android/blob/master/category/ui/guide_page.md)
   
   - [Image](https://github.com/Mike-bel/Awesome_Android/blob/master/category/ui/image.md)
