@@ -35,6 +35,12 @@ By Frank-Zhu.
 
 <img src="https://raw.githubusercontent.com/Frank-Zhu/PullZoomView/master/art/pull-to-zoom.gif" width="240">
 
+## [hugeterry](https://github.com/hugeterry/CoordinatorTabLayout)
+
+By hugeterry.
+
+<img src="https://github.com/hugeterry/CoordinatorTabLayout/raw/master/showUI/show1.gif" height="240"/>
+
 ## [ZoomHeader](https://github.com/githubwing/ZoomHeader)
 
 By githubwing.
