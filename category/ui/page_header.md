@@ -39,7 +39,7 @@ By Frank-Zhu.
 
 By hugeterry.
 
-<img src="https://github.com/hugeterry/CoordinatorTabLayout/raw/master/showUI/show1.gif" height="240"/>
+<img src="https://github.com/hugeterry/CoordinatorTabLayout/raw/master/showUI/show1.gif" width="240"/>
 
 ## [ZoomHeader](https://github.com/githubwing/ZoomHeader)
 
