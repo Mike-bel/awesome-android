@@ -61,6 +61,10 @@ By lipangit.
 
 Ambition is become the most widely used video playback control.
 
+## [GSYVideoPlayer](https://github.com/CarGuo/GSYVideoPlayer)
+
+By CarGuo.
+
 ## [AndroidVideoPlayer](https://github.com/xiongwei-git/AndroidVideoPlayer)
 
 By xiongwei-git.
