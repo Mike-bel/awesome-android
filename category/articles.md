@@ -159,6 +159,16 @@
 
   - [Android M App Links: 实现, 缺陷以及解决办法](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0718/3200.html)
   
+# Bluetooth & Ble
+
+  - [bluetooth-le on Developer Website](https://developer.android.com/guide/topics/connectivity/bluetooth-le.html)
+  
+  - [Android 上的低功耗蓝牙实践](https://race604.com/tag/bluetooth/)
+  
+  - [Android Things - Communicating with Bluetooth Low Energy devices](http://nilhcem.com/android-things/bluetooth-low-energy)
+  
+  Refer to: [FastBle](https://github.com/Jasonchenlijian/FastBle) & [RxAndroidBle](https://github.com/Polidea/RxAndroidBle)
+
 # Gradle
 
   - [Gradle Android Plugin 中文手册](https://www.gitbook.com/book/chaosleong/gradle-for-android/details)
