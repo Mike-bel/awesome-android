@@ -161,13 +161,13 @@
   
 # Bluetooth & Ble
 
-  - [bluetooth-le on Developer Website](https://developer.android.com/guide/topics/connectivity/bluetooth-le.html)
+- [bluetooth-le on Developer Website](https://developer.android.com/guide/topics/connectivity/bluetooth-le.html)
   
-  - [Android 上的低功耗蓝牙实践](https://race604.com/tag/bluetooth/)
+- [Android 上的低功耗蓝牙实践](https://race604.com/tag/bluetooth/)
   
-  - [Android Things - Communicating with Bluetooth Low Energy devices](http://nilhcem.com/android-things/bluetooth-low-energy)
+- [Android Things - Communicating with Bluetooth Low Energy devices](http://nilhcem.com/android-things/bluetooth-low-energy)
   
-  Refer to: [FastBle](https://github.com/Jasonchenlijian/FastBle) & [RxAndroidBle](https://github.com/Polidea/RxAndroidBle)
+Refer to: [FastBle](https://github.com/Jasonchenlijian/FastBle) & [RxAndroidBle](https://github.com/Polidea/RxAndroidBle)
 
 # Gradle
 
@@ -176,6 +176,12 @@
   - [Gradle For Android 系列文章](https://segmentfault.com/a/1190000004229002)
   
   - [Gradle For Android And Java By Udacity](https://www.udacity.com/course/gradle-for-android-and-java--ud867)
+  
+# RxJava
+
+- [给 Android 开发者的 RxJava 详解](https://gank.io/post/560e15be2dca930e00da1083) 
+
+  By [扔物线](https://github.com/rengwuxian).
 
 # 拓展
 
