@@ -56,8 +56,6 @@ Maybe it is not the most complete one, but must be the awesome one!
 
 - [Calendar](https://github.com/Mike-bel/Awesome_Android/blob/master/category/calendar.md)
 
-- [CardView](https://github.com/Mike-bel/Awesome_Android/blob/master/category/ui/cardview.md)
-
 - [Performance Optimization](https://github.com/Mike-bel/Awesome_Android/blob/master/category/performance_optimization.md)
 
 - UI Design
@@ -79,6 +77,8 @@ Maybe it is not the most complete one, but must be the awesome one!
   - [CaseView](https://github.com/Mike-bel/Awesome_Android/blob/master/category/ui/caseview.md)
   
     You can call it CaseView, TipsView, or GuideView.
+  
+  - [CardView](https://github.com/Mike-bel/Awesome_Android/blob/master/category/ui/cardview.md)
   
   - [Danmaku](https://github.com/Mike-bel/Awesome_Android/blob/master/category/ui/danmaku.md)
   
