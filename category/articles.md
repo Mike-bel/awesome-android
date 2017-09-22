@@ -171,6 +171,8 @@
   
 Refer to: [FastBle](https://github.com/Jasonchenlijian/FastBle) & [RxAndroidBle](https://github.com/Polidea/RxAndroidBle)
 
+- [debugging-bluetooth-with-an-android-app](https://blog.bluetooth.com/debugging-bluetooth-with-an-android-app)
+
 # Gradle
 
   - [Gradle Android Plugin 中文手册](https://www.gitbook.com/book/chaosleong/gradle-for-android/details)
