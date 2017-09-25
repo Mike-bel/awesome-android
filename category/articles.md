@@ -191,6 +191,10 @@ Refer to: [FastBle](https://github.com/Jasonchenlijian/FastBle) & [RxAndroidBle]
 
   - [RxJava Essentials 中文翻译版](http://wiki.jikexueyuan.com/project/rxjava/)
   - [ReactiveX文档中文翻译](https://mcxiaoke.gitbooks.io/rxdocs/content/)
+  
+- Meetup
+
+  - [zhihu-rxjava-meetup](https://github.com/zhihu/zhihu-rxjava-meetup)
 
 # 拓展
 
