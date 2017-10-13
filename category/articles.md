@@ -116,10 +116,16 @@
 
 - 绘制基础
 
-  - HenCoder Android 开发进阶: 自定义 View
-  
+  - HenCoder Android 开发进阶: 自定义 View 系列
+  
     - [1-1 绘制基础](http://hencoder.com/ui-1-1)
     - [1-2 Paint 详解](http://hencoder.com/ui-1-2/)
+    - [1-3 drawText() 文字的绘制](http://hencoder.com/ui-1-3/)
+    - [1-4 Canvas 对绘制的辅助 clipXXX() 和 Matrix](http://hencoder.com/ui-1-4/)
+    - [1-5 绘制顺序](http://hencoder.com/ui-1-5/)
+    - [1-6 属性动画 Property Animation（上手篇）](http://hencoder.com/ui-1-6/)
+    - [1-7：属性动画 Property Animation（进阶篇）](http://hencoder.com/ui-1-7/)
+    - [1-8 硬件加速](http://hencoder.com/ui-1-8/)
 
   - [公共技术点之 View 绘制流程](http://a.codekk.com/detail/Android/lightSky/%E5%85%AC%E5%85%B1%E6%8A%80%E6%9C%AF%E7%82%B9%E4%B9%8B%20View%20%E7%BB%98%E5%88%B6%E6%B5%81%E7%A8%8B)
 
