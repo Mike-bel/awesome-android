@@ -120,8 +120,8 @@
   
     - [1-1 绘制基础](http://hencoder.com/ui-1-1)
     - [1-2 Paint 详解](http://hencoder.com/ui-1-2/)
-    - [1-3 drawText() 文字的绘制](http://hencoder.com/ui-1-3/)
-    - [1-4 Canvas 对绘制的辅助 clipXXX() 和 Matrix](http://hencoder.com/ui-1-4/)
+    - [1-3 drawText 文字的绘制](http://hencoder.com/ui-1-3/)
+    - [1-4 Canvas 对绘制的辅助 clipXXX 和 Matrix](http://hencoder.com/ui-1-4/)
     - [1-5 绘制顺序](http://hencoder.com/ui-1-5/)
     - [1-6 属性动画 Property Animation（上手篇）](http://hencoder.com/ui-1-6/)
     - [1-7：属性动画 Property Animation（进阶篇）](http://hencoder.com/ui-1-7/)
