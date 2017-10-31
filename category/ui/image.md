@@ -6,6 +6,14 @@ By chrisbanes.
 
 PhotoView aims to help produce an easily usable implementation of a zooming Android ImageView.
 
+# ■ Compress
+
+## [Luban](https://github.com/Curzibn/Luban)
+
+By Curzibn.
+
+Luban（鲁班） —— Android图片压缩工具，仿微信朋友圈压缩策略。
+
 # ■ Large Image
 
 ## [subsampling-scale-image-view](https://github.com/davemorrissey/subsampling-scale-image-view)
