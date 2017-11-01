@@ -28,8 +28,7 @@
   
   Reference: [利用Buck进行高效Android编译](http://www.infoq.com/cn/news/2015/06/buck-android-build)
   
-  
-
+ 
 ## Coding
 
 - [Android Parcelable code generator](https://plugins.jetbrains.com/plugin/7332?pr=androidstudio)
@@ -94,6 +93,10 @@
 - [CheckStyle](https://plugins.jetbrains.com/plugin/1065-checkstyle-idea)
 
   This plugin provides both real-time and on-demand scanning of Java files with CheckStyle from within IDEA.
+  
+- [P3C](https://github.com/alibaba/p3c)
+
+  Alibaba Java Coding Guidelines pmd implements and IDE plugin.
   
 - [FindBugs-IDEA](https://plugins.jetbrains.com/androidstudio/plugin/3847-findbugs-idea)
 
