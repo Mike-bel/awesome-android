@@ -29,3 +29,11 @@ DialogFragments modeled after the AOSP Clock and Calendar apps to improve UX for
 <img src="https://raw.githubusercontent.com/code-troopers/android-betterpickers/master/sample/imagery/screenshot_hms.png" width="120">
 <img src="https://raw.githubusercontent.com/code-troopers/android-betterpickers/master/sample/imagery/screenshot_number.png" width="120">
 <img src="https://raw.githubusercontent.com/code-troopers/android-betterpickers/master/sample/imagery/screenshot_time.png" width="120">
+
+## [linear-time-picker](https://github.com/code-mc/linear-time-picker)
+
+By code-mc.
+
+Gorgeous Time and Date picker library inspired by the [Timely app](https://play.google.com/store/apps/details?id=ch.bitspin.timely).
+
+<img src="https://github.com/code-mc/linear-time-picker/raw/master/demo.gif?raw=true">
