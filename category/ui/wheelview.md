@@ -3,9 +3,7 @@
 
 By Bigkoo, inc.
 
-<img src="https://github.com/Bigkoo/Android-PickerView/raw/master/preview/timepicker.gif" width="200"/> <img src="https://github.com/Bigkoo/Android-PickerView/raw/master/preview/timepicker_night.gif" width="200"/>
-
-<img src="https://github.com/Bigkoo/Android-PickerView/raw/master/preview/JsonData.gif" width="200"/> <img src="https://github.com/Bigkoo/Android-PickerView/raw/master/preview/CustomLayout.gif" width="200"/>
+<img src="https://github.com/Bigkoo/Android-PickerView/raw/master/preview/timepicker.gif" height="400"/> <img src="https://github.com/Bigkoo/Android-PickerView/raw/master/preview/timepicker_night.gif" height="200"/> <img src="https://github.com/Bigkoo/Android-PickerView/raw/master/preview/JsonData.gif" height="200"/> <img src="https://github.com/Bigkoo/Android-PickerView/raw/master/preview/CustomLayout.gif" height="200"/>
 
 ## [PickView](https://github.com/brucetoo/PickView)
 
