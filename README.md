@@ -286,6 +286,8 @@ By stormzhang.
   
 - [RxJavaSamples](https://github.com/THEONE10211024/RxJavaSamples)
 
+- [AndroidLibs](https://github.com/XXApple/AndroidLibs)
+
 ## External
 
 - [80+ Best Resources for Android Developers 2016 (Blogs, Forums & More)](http://www.anysoftwaretools.com/best-android-development-resources/)
