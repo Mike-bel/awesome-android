@@ -104,3 +104,9 @@ Goal is to have something as similar to GPUImage as possible. Vertex and fragmen
 ## [PhotoEditDemo](https://github.com/jarlen/PhotoEditDemo)
 
 By jarlen.
+
+## [photo-affix](https://github.com/afollestad/photo-affix)
+
+By afollestad.
+
+Stitch your photos together vertically or horizontally easily! 
