@@ -8,9 +8,13 @@ By CymChad.
 
 By chrisbanes.
 
-# [https://github.com/jianghejie/XRecyclerView](XRecyclerView)
+# [XRecyclerView](https://github.com/jianghejie/XRecyclerView)
 
 By jianghejie.
+
+a RecyclerView that implements pullrefresh , loadingmore and header featrues.you can use it like a standard RecyclerView. you don't need to implement a special adapter .
+
+<img src="https://github.com/jianghejie/XRecyclerView/raw/master/art/demo.gif" height="400"/>
 
 ## [android-Ultra-Pull-To-Refresh](https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh)
 
