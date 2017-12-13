@@ -8,6 +8,14 @@
 
 # Vertical
 
+- [materialish-progress](https://github.com/pnikosis/materialish-progress)
+
+  By pnikosis.
+  
+  A material style progress wheel compatible with 2.3.
+  
+  ![](https://github.com/pnikosis/materialish-progress/raw/master/spinningwheel.gif)
+
 - [LoadingDrawable](https://github.com/dinuscxj/LoadingDrawable)
 
   By dinuscxj.
