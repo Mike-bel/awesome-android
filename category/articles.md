@@ -193,7 +193,7 @@ Refer to: [FastBle](https://github.com/Jasonchenlijian/FastBle) & [RxAndroidBle]
 
   By [扔物线](https://github.com/rengwuxian).
   
-- [RxJava 与 Retrofit 结合的最佳实践](https://gank.io/post/560e15be2dca930e00da1083#toc_21)
+- [RxJava 与 Retrofit 结合的最佳实践](https://gank.io/post/56e80c2c677659311bed9841)
   
 - EBOOK
 
