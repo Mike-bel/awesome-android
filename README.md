@@ -162,6 +162,9 @@ Maybe it is not the most complete one, but must be the awesome one!
   
     A picker or selector for date time, age, provinces, sex and so on.
 
+# Kotlin
+
+- [kotlin_tips](https://github.com/heimashi/kotlin_tips)
 
 # Frameworks for building Mobile cross-platform UIs
 
