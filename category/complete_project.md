@@ -57,3 +57,9 @@ LeeCo is an awesome app for (including unlock) problems, solutions, discuss(from
 By chaychan.
 
 精仿今日头条，数据是抓取今日头条App的数据。使用RxJava + Retrofit + MVP开发的开源项目，仅供学习用途。
+
+## [BookReader](https://github.com/JustWayward/BookReader)
+
+By JustWayward, inc.
+
+"任阅" 网络小说阅读器，实现追书推荐收藏、书籍/标签检索、模拟翻书的翻页效果、缓存书籍、日夜间模式、本地txt/pdf/epub书籍阅读、字体/主题/亮度设置、Wifi传书等功能！
