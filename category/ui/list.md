@@ -34,7 +34,17 @@ By nhaarman.
 
 By gabrielemariotti.
 
-<img src="https://github.com/gabrielemariotti/RecyclerViewItemAnimators/raw/master/demo.gif" width="240"/>
+<img src="https://github.com/gabrielemariotti/RecyclerViewItemAnimators/raw/master/demo.gif" width="240"/>/>
+
+# Over Scroll
+
+## [overscroll-decor](https://github.com/EverythingMe/overscroll-decor)
+
+By EverythingMe, inc.
+
+The library provides an iOS-like over-scrolling effect applicable over almost all Android native scrollable views. It is also built to allow for very easy adaptation to support custom views.
+
+<img src="https://github.com/EverythingMe/overscroll-decor/raw/master/recyclerview_demo.gif" width="240"/>
 
 # Extends
 
