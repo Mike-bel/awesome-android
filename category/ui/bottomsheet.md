@@ -19,3 +19,9 @@ One way to present a set of actions to a user is with bottom sheets, a sheet of 
 
 ![](https://github.com/soarcn/BottomSheet/raw/master/art/image.png?raw=true) ![](https://github.com/soarcn/BottomSheet/raw/master/art/image1.png?raw=true) ![](https://github.com/soarcn/BottomSheet/raw/master/art/image2.png?raw=true) ![](https://github.com/soarcn/BottomSheet/raw/master/art/image3.png?raw=true)
 ![](https://github.com/soarcn/BottomSheet/raw/master/art/image4.png?raw=true) ![](https://github.com/soarcn/BottomSheet/raw/master/art/image5.png?raw=true)
+
+## [FabulousFilter](https://github.com/Krupen/FabulousFilter)
+
+By Krupen.
+
+<img src="https://raw.githubusercontent.com/Krupen/FabulousFilter/master/concept.gif" width="300"/>
