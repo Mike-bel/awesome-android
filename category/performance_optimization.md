@@ -16,3 +16,9 @@ Stetho is a debug bridge for Android applications, enabling the powerful Chrome 
 By badoo.
 
 Memory safer implementation of android.os.Handler
+
+## [AndroidGodEye](https://github.com/Kyson/AndroidGodEye)
+
+By Kyson.
+
+AndroidGodEye is a performance monitor tool for Android(not limited to performance data) , you can easily monitor the performance of your app in real time in pc browser.
