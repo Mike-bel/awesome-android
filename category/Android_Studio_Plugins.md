@@ -55,6 +55,10 @@
 
   This plugin convert IDs in your android layout xml, to java source code. Supported format: Plain Android style, AndroidAnnotations, ButterKnife.
   
+- [codeGlance](https://plugins.jetbrains.com/plugin/7275-codeglance)
+
+  Embeds a code minimap similar to the one found in Sublime into the editor pane. Works with both light and dark themes using your customized colors for syntax highlighting.
+  
   
 ## Debug
 
