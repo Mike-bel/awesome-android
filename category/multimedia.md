@@ -73,6 +73,10 @@ By xiongwei-git.
 
 By jcodeing.
 
+## [yjPlay](https://github.com/yangchaojiang/yjPlay)
+
+By yangchaojiang.
+
 # ■ Living
 
 # [SmarterStreaming](https://github.com/daniulive/SmarterStreaming)
