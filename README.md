@@ -166,6 +166,10 @@ Maybe it is not the most complete one, but must be the awesome one!
 
 - [kotlin_tips](https://github.com/heimashi/kotlin_tips)
 
+- [android-ktx](https://github.com/android/android-ktx)
+
+  A set of Kotlin extensions for Android app development. 
+
 # Frameworks for building Mobile cross-platform UIs
 
 - [React Native](https://facebook.github.io/react-native/)
