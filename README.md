@@ -58,6 +58,8 @@ Maybe it is not the most complete one, but must be the awesome one!
 
 - [Calendar](https://github.com/Mike-bel/Awesome_Android/blob/master/category/calendar.md)
 
+- [Flutter](https://github.com/flutter/flutter)
+
 - [Performance Optimization](https://github.com/Mike-bel/Awesome_Android/blob/master/category/performance_optimization.md)
 
 - UI Design
