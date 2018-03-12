@@ -33,13 +33,13 @@ By Cleveroad.
 
 Using Fan Layout Manager you can implement the horizontal list, the items of which move like fan blades https://www.cleveroad.com.
 
-![](https://github.com/Cleveroad/FanLayoutManager/raw/master/images/demo_.gif)
+<img src="https://github.com/Cleveroad/FanLayoutManager/raw/master/images/demo_.gif" width="200"/>
 
 ## [CoolAnim](https://github.com/huazhiyuan2008/CoolAnim)
 
 By huazhiyuan2008.
 
-![](https://github.com/huazhiyuan2008/CoolAnim/raw/master/art/CoolAnim.gif)
+<img src="https://github.com/huazhiyuan2008/CoolAnim/raw/master/art/CoolAnim.gif" width="200"/>
 
 ## [SwipeBackLayout](https://github.com/ikew0ng/SwipeBackLayout)
 
@@ -47,7 +47,13 @@ By ikew0ng.
 
 An Android library that help you to build app with swipe back gesture.
 
-![](https://github.com/Issacw0ng/SwipeBackLayout/raw/master/art/screenshot.png?raw=true)
+<img src="https://github.com/Issacw0ng/SwipeBackLayout/raw/master/art/screenshot.png?raw=true" width="200"/>
+
+## [BGASwipeBackLayout-Android](https://github.com/bingoogolapple/BGASwipeBackLayout-Android)
+
+By bingoogolapple.
+
+<img src="https://cloud.githubusercontent.com/assets/8949716/21536263/7aa0fe88-cdbb-11e6-801d-4b370d6c454c.gif" width="200"/>
 
 ## [SwipeBack](https://github.com/liuguangqiang/SwipeBack)
 
