@@ -45,4 +45,18 @@ By huazhiyuan2008.
 
 By ikew0ng.
 
-An Android library that help you to build app with swipe b
+An Android library that help you to build app with swipe back gesture.
+
+<img src="https://github.com/Issacw0ng/SwipeBackLayout/raw/master/art/screenshot.png?raw=true" width="200"/>
+
+## [BGASwipeBackLayout-Android](https://github.com/bingoogolapple/BGASwipeBackLayout-Android)
+
+By bingoogolapple.
+
+<img src="https://cloud.githubusercontent.com/assets/8949716/21536263/7aa0fe88-cdbb-11e6-801d-4b370d6c454c.gif" width="200"/>
+
+## [SwipeBack](https://github.com/liuguangqiang/SwipeBack)
+
+By liuguangqiang.
+
+<img src="https://github.com/liuguangqiang/SwipeBack/raw/master/Images/swipeback_demo.gif" width="200"/> <img src="https://github.com/liuguangqiang/SwipeBack/raw/master/Images/swipeback.gif" width="200"/>
