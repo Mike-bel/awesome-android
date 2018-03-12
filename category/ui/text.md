@@ -23,3 +23,9 @@ By sfsheng0322.
 学名：可垂直翻、可水平翻的翻页公告
 
 <img src="https://github.com/sfsheng0322/MarqueeView/raw/master/screenshot/MarqueeView.gif" width="240" />
+
+## [TextPathView](https://github.com/totond/TextPathView)
+
+By totond.
+
+![](https://camo.githubusercontent.com/0a53a721328000ec49a01cab0580b8bfb69bffb2/68747470733a2f2f692e696d6775722e636f6d2f665065594638662e676966)
