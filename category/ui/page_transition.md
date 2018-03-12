@@ -59,4 +59,4 @@ By bingoogolapple.
 
 By liuguangqiang.
 
-![](https://github.com/liuguangqiang/SwipeBack/raw/master/Images/swipeback_demo.gif) ![](https://github.com/liuguangqiang/SwipeBack/raw/master/Images/swipeback.gif)
+<img src="https://github.com/liuguangqiang/SwipeBack/raw/master/Images/swipeback_demo.gif" width="200"/> <img src="https://github.com/liuguangqiang/SwipeBack/raw/master/Images/swipeback.gif" width="200"/>
