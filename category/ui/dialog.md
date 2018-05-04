@@ -11,6 +11,12 @@ By pedant.
 
 <img src="https://github.com/pedant/sweet-alert-dialog/raw/master/change_type.gif" height="300"/>
 
+## [Toasty](https://github.com/GrenderG/Toasty)
+
+By GrenderG.
+
+<img src="https://raw.githubusercontent.com/GrenderG/Toasty/master/art/collage.png"/>
+
 ## [android-adDialog](https://github.com/yipianfengye/android-adDialog)
 
 By yipianfengye.
