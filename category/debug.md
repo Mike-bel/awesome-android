@@ -6,6 +6,13 @@
 
   可以通过滚动层级滚轮来控制只显示某一层级的信息，避免层级覆盖等。
   
+  
+## [Sonar](https://github.com/facebook/sonar)
+
+By facebook, inc.
+
+Sonar is a platform for debugging mobile apps on iOS and Android. Visualize, inspect, and control your apps from a simple desktop interface. Use Sonar as is or extend it using the plugin API.
+  
 ## [stetho](https://github.com/facebook/stetho)
 
   By facebook, inc.
