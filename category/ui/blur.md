@@ -1,6 +1,6 @@
 - [Dimezis/BlurView](https://github.com/Dimezis/BlurView)
 
-  By Dimezis.
+  Dynamic iOS-like blur of underlying Views for Android
 
 - [wasabeef/Blurry](https://github.com/wasabeef/Blurry)
 
