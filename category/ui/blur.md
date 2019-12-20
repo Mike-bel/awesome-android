@@ -1,6 +1,8 @@
 - [Dimezis/BlurView](https://github.com/Dimezis/BlurView)
 
   Dynamic iOS-like blur of underlying Views for Android
+  
+  Description: [https://medium.com/@Intersog/how-to-create-a-dynamic-blur-effect-on-android-b835d514684](https://medium.com/@Intersog/how-to-create-a-dynamic-blur-effect-on-android-b835d514684)
 
 - [wasabeef/Blurry](https://github.com/wasabeef/Blurry)
 
