@@ -12,4 +12,8 @@ By barteksc.
 
 ## [Office Web 365](https://officeweb365.com/)
 
+## [android5xlsx](https://github.com/andruhon/android5xlsx)
+
+Reading and Writing XLSX and XLS on Android 5 with Apache POI
+
 
