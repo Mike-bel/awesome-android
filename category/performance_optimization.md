@@ -5,6 +5,12 @@ By square, inc.
 
 A memory leak detection library for Android and Java.
 
+## [matrix](https://github.com/Tencent/matrix)
+
+By Tencent, inc.
+
+A memory leak detection library for Android and Java.
+
 ## [stetho](https://github.com/facebook/stetho)
 
 By facebook, inc.
