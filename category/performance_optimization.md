@@ -9,7 +9,7 @@ A memory leak detection library for Android and Java.
 
 By Tencent, inc.
 
-A memory leak detection library for Android and Java.
+Matrix is an APM (Application Performance Manage) used in Wechat to monitor, locate and analyse performance problems. It is a plugin style, non-invasive solution and is currently available on iOS, macOS and Android.
 
 ## [stetho](https://github.com/facebook/stetho)
 
