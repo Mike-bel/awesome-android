@@ -142,7 +142,7 @@
   
   - [一个Demo带你彻底掌握View的滑动冲突](http://blog.csdn.net/tyk0910/article/details/53414299)
   
-  - [可能是讲解Android事件分发最好的文章 -- milter](https://www.jianshu.com/p/2be492c1df96)
+  - [可能是讲解Android事件分发最好的文章 -- milter](https://cloud.tencent.com/developer/article/1179381)
 
 - 一些细节
 
