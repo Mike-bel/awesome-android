@@ -72,6 +72,10 @@
 
 - [Android优化系列一： 日志清理](http://www.snowdream.tech/2016/10/22/android-optimalize-series-log/)
 
+- [详解Android v1、v2、v3签名(小结）](https://cloud.tencent.com/developer/article/1719918)
+
+- [Android 端 V1/V2/V3 签名的原理](https://www.jianshu.com/p/f1ae1081d0ee)
+
 # 多渠道打包
 
 - [美团点评技术团队：新一代开源Android渠道包生成工具Walle](http://tech.meituan.com/android-apk-v2-signature-scheme.html)
