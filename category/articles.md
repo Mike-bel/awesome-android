@@ -26,6 +26,8 @@
 
 - 【飞得更高】扫清Android面试障碍--[面试前的准备](http://www.bingjie.me/2016/05/12/%E6%89%AB%E6%B8%85%E9%9D%A2%E8%AF%95%E5%89%8D%E7%9A%84%E5%87%86%E5%A4%87.html) & [三十道android开放题（初稿）](http://www.bingjie.me/2016/08/19/%E4%B8%89%E5%8D%81%E9%81%93%E5%BC%80%E6%94%BE%E9%A2%98.html)
 
+- [Android 修炼手册 android-training](https://github.com/5A59/android-training)
+
 # Java内存模型
 
 - [http://www.infoq.com/cn/author/%E7%A8%8B%E6%99%93%E6%98%8E#全部](http://www.infoq.com/cn/author/%E7%A8%8B%E6%99%93%E6%98%8E#全部)
