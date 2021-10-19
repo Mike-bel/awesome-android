@@ -116,6 +116,11 @@
 
 - [Android-app 增量更新的使用姿势](http://46aae4d1e2371e4aa769798941cef698.devproxy.yunshipei.com/qxs965266509/article/details/50987403)
 
+# 插件化 & 热修复
+
+- [【Android 修炼手册】常用技术篇 -- Android 插件化解析](https://juejin.cn/post/6844903885476233229)
+- [全面解析 Android 热修复原理](https://zhuanlan.zhihu.com/p/75465215)
+
 # Custom Views
 
 - 绘制基础
