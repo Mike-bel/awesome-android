@@ -28,3 +28,9 @@ By dodola.
 ## [Amigo](https://github.com/eleme/Amigo)
 
 By eleme, inc.
+
+## [lancet](https://github.com/eleme/lancet)
+
+By eleme, inc.
+
+Lancet is a lightweight AOP framework for Android.
