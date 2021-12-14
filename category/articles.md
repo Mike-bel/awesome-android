@@ -76,6 +76,8 @@
 
 - [详解Android v1、v2、v3签名(小结）](https://cloud.tencent.com/developer/article/1719918)
 
+- [Android V1及V2签名签名原理简析](https://cloud.tencent.com/developer/article/1424865)
+
 - [Android 端 V1/V2/V3 签名的原理](https://www.jianshu.com/p/f1ae1081d0ee)
 
 # 多渠道打包
