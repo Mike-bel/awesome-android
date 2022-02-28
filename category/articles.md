@@ -36,6 +36,8 @@
 
 - [传经授道——我的算法学习之路](http://book.douban.com/subject/3238803/)
 
+- [十大排序算法](https://zhuanlan.zhihu.com/p/42586566) 和 [排序算法专辑](https://wiki.jikexueyuan.com/project/easy-learn-algorithm/fast-sort.html)
+
 # Http 相关
 
 - [聊聊Socket、TCP/IP、HTTP、FTP及网络编程](https://my.oschina.net/xianggao/blog/654677)
