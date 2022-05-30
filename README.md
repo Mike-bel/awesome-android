@@ -305,6 +305,9 @@ By stormzhang.
 
 - [AndroidLibs](https://github.com/XXApple/AndroidLibs)
 
+- [FastDev4Android](https://static.kancloud.cn/digest/fastdev4android/109640)
+  本项目是Android快速开发框架，采用AS进行开发。 预想集成工具包,采用MVP开发模式,EventBus数据分发,沉浸式状态栏,ORM,网络请求(OkHttps),数据解析,依赖注入(DI),xutils,图片异步加载，二维码扫描等等，后续会进行逐步添加。
+
 ## External
 
 - [80+ Best Resources for Android Developers 2016 (Blogs, Forums & More)](http://www.anysoftwaretools.com/best-android-development-resources/)
