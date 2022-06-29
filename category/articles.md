@@ -127,6 +127,10 @@
 - [【Android 修炼手册】常用技术篇 -- Android 插件化解析](https://juejin.cn/post/6844903885476233229)
 - [全面解析 Android 热修复原理](https://zhuanlan.zhihu.com/p/75465215)
 
+# WebView
+
+- [Android-WebView还会存在内存泄漏吗？](https://juejin.cn/post/6901487965562732551)
+
 # Custom Views
 
 - 绘制基础
