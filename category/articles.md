@@ -225,3 +225,5 @@ Refer to: [FastBle](https://github.com/Jasonchenlijian/FastBle) & [RxAndroidBle]
 - [系列文章 —— Android应用程序开发以及背后的设计思想深度剖析](http://www.uml.org.cn/mobiledev/201211063.asp#1)
 
 - [Android 操作系统架构开篇](http://gityuan.com/android/)
+
+- [android源码解析](https://www.kancloud.cn/digest/androidframeworks/127773)
