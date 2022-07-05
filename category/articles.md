@@ -227,3 +227,5 @@ Refer to: [FastBle](https://github.com/Jasonchenlijian/FastBle) & [RxAndroidBle]
 - [Android 操作系统架构开篇](http://gityuan.com/android/)
 
 - [android源码解析](https://www.kancloud.cn/digest/androidframeworks/127773)
+
+- [2020年了，Android后台保活还有戏吗？看我如何优雅的实现！](http://www.52im.net/thread-2881-1-1.html)
