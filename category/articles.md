@@ -84,7 +84,7 @@
 
 # 多渠道打包
 
-- [美团点评技术团队：新一代开源Android渠道包生成工具Walle](http://tech.meituan.com/android-apk-v2-signature-scheme.html)
+- [美团点评技术团队：新一代开源Android渠道包生成工具Walle](https://tech.meituan.com/2017/01/13/android-apk-v2-signature-scheme.html)
 
 - [美团Android自动化之旅—生成渠道包](http://tech.meituan.com/mt-apk-packaging.html)
 
